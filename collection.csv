@@ -1,0 +1,2226 @@
+﻿FoodCategory,FoodItem,Cals_per100grams
+CannedFruit,Applesauce,62
+CannedFruit,Canned Apricots,48
+CannedFruit,Canned Blackberries,92
+CannedFruit,Canned Blueberries,88
+CannedFruit,Canned Cherries,54
+CannedFruit,Canned Cranberries,178
+CannedFruit,Canned Crushed Pineapple,53
+CannedFruit,Canned Figs,107
+CannedFruit,Canned Fruit Cocktail,81
+CannedFruit,Canned Fruit Salad,50
+CannedFruit,Canned Gooseberries,73
+CannedFruit,Canned Grapefruit,37
+CannedFruit,Canned Grapes,76
+CannedFruit,Canned Mandarin Oranges,71
+CannedFruit,Canned Mango,65
+CannedFruit,Canned Mangosteen,73
+CannedFruit,Canned Mixed Fruit,71
+CannedFruit,Canned Morello Cherries,81
+CannedFruit,Canned Oranges,62
+CannedFruit,Canned Peaches,54
+CannedFruit,Canned Pears,35
+CannedFruit,Canned Pineapple,60
+CannedFruit,Canned Plums,58
+CannedFruit,Canned Raspberries,91
+CannedFruit,Canned Sliced Pineapple,53
+CannedFruit,Canned Sour Cherries,114
+CannedFruit,Canned Strawberries,92
+CannedFruit,Canned Tangerines,61
+CannedFruit,Dried Fruit,243
+Fruits,Acai,70
+Fruits,Apple,52
+Fruits,Applesauce,68
+Fruits,Apricot,48
+Fruits,Avocado,160
+Fruits,Banana,89
+Fruits,Blackberries,43
+Fruits,Blood Oranges,50
+Fruits,Blueberries,57
+Fruits,Cantaloupe,34
+Fruits,Cherries,50
+Fruits,Clementine,47
+Fruits,Cranberries,46
+Fruits,Currants,56
+Fruits,Custard Apple,101
+Fruits,Dates,282
+Fruits,Figs,74
+Fruits,Fruit salad,50
+Fruits,Grapes,69
+Fruits,Greengage,41
+Fruits,Guava,68
+Fruits,Jackfruit,95
+Fruits,Jujube,79
+Fruits,Kiwi,61
+Fruits,Lemon,29
+Fruits,Lime,30
+Fruits,Lychees,66
+Fruits,Mandarin Oranges,53
+Fruits,Mango,60
+Fruits,Minneola,64
+Fruits,Mulberries,43
+Fruits,Nectarine,44
+Fruits,Olives,115
+Fruits,Orange,47
+Fruits,Papaya,43
+Fruits,Passion Fruit,97
+Fruits,Peach,39
+Fruits,Pear,57
+Fruits,Persimmon,127
+Fruits,Physalis,49
+Fruits,Pineapple,50
+Fruits,Plantains,122
+Fruits,Plum,46
+Fruits,Pomegranate,83
+Fruits,Quince,57
+Fruits,Raisins,299
+Fruits,Rambutan,82
+Fruits,Raspberries,52
+Fruits,Rhubarb,21
+Fruits,Starfruit,31
+Fruits,Strawberries,32
+Fruits,Tamarind,239
+Fruits,Tangerine,53
+Fruits,Watermelon,30
+Tropical&ExoticFruits,Acerola,32
+Tropical&ExoticFruits,Asian Pear,42
+Tropical&ExoticFruits,Avocado,160
+Tropical&ExoticFruits,Banana,89
+Tropical&ExoticFruits,Breadfruit,103
+Tropical&ExoticFruits,Cantaloupe Melon,34
+Tropical&ExoticFruits,Casaba Melon,28
+Tropical&ExoticFruits,Cherimoya,75
+Tropical&ExoticFruits,Dragon Fruit,60
+Tropical&ExoticFruits,Durian,147
+Tropical&ExoticFruits,Feijoa,55
+Tropical&ExoticFruits,Galia Melon,23
+Tropical&ExoticFruits,Grapefruit,42
+Tropical&ExoticFruits,Guava,68
+Tropical&ExoticFruits,Honeydew,36
+Tropical&ExoticFruits,Jackfruit,95
+Tropical&ExoticFruits,Kiwi,61
+Tropical&ExoticFruits,Kumquat,71
+Tropical&ExoticFruits,Lychee,66
+Tropical&ExoticFruits,Mandarin Oranges,53
+Tropical&ExoticFruits,Mango,60
+Tropical&ExoticFruits,Mangosteen,73
+Tropical&ExoticFruits,Maracuya,97
+Tropical&ExoticFruits,Maraschino Cherries,165
+Tropical&ExoticFruits,Muskmelon,34
+Tropical&ExoticFruits,Noni,53
+Tropical&ExoticFruits,Passion Fruit,97
+Tropical&ExoticFruits,Pineapple,50
+Tropical&ExoticFruits,Pink Grapefruit,42
+Tropical&ExoticFruits,Plantain,122
+Tropical&ExoticFruits,Pomegranate,83
+Tropical&ExoticFruits,Pomelo,38
+Tropical&ExoticFruits,Prickly Pear,41
+Tropical&ExoticFruits,Rambutan,82
+Tropical&ExoticFruits,Sapodilla,83
+Tropical&ExoticFruits,Soursop Fruit,66
+Tropical&ExoticFruits,Star Fruit,31
+Tropical&ExoticFruits,Tamarind,239
+Tropical&ExoticFruits,Watermelon,30
+PotatoProducts,All-blue Potatoes,61
+PotatoProducts,Baked Potato,93
+PotatoProducts,Boiled Potatoes,87
+PotatoProducts,Cassava,160
+PotatoProducts,Croquettes,127
+PotatoProducts,Dumpling Dough,124
+PotatoProducts,Dumplings,124
+PotatoProducts,French Fingerling Potatoes,82
+PotatoProducts,French Fries,312
+PotatoProducts,Fried Potatoes,312
+PotatoProducts,Gnocchi,133
+PotatoProducts,Japanese Sweet Potatoes,87
+PotatoProducts,Marrow Dumplings,424
+PotatoProducts,Mashed Potatoes,89
+PotatoProducts,Norland Red Potatoes,89
+PotatoProducts,Omelette,154
+PotatoProducts,Potato,77
+PotatoProducts,Potato Dumpling,124
+PotatoProducts,Potato Fritter,185
+PotatoProducts,Potato Gratin,132
+PotatoProducts,Potato Pancakes,268
+PotatoProducts,Potato Salad,143
+PotatoProducts,Potato Starch,331
+PotatoProducts,Potato Sticks,522
+PotatoProducts,Potato Waffles,167
+PotatoProducts,Potato Wedges,123
+PotatoProducts,Potatoes au Gratin,132
+PotatoProducts,Purple Majesty Potatoes,72
+PotatoProducts,Red Gold Potatoes,89
+PotatoProducts,Red Potatoes,89
+PotatoProducts,Roast Potatoes,149
+PotatoProducts,Rosemary Potatoes,93
+PotatoProducts,Rösti,138
+PotatoProducts,Russet Potatoes,97
+PotatoProducts,Russian Banana Potatoes,67
+PotatoProducts,Sweet Potato,92
+PotatoProducts,White Potatoes,94
+PotatoProducts,Yams,116
+PotatoProducts,Yukon Gold Potatoes,82
+Vegetables,Artichoke,47
+Vegetables,Arugula,25
+Vegetables,Asparagus,20
+Vegetables,Aubergine,25
+Vegetables,Beetroot,43
+Vegetables,Bell Pepper,20
+Vegetables,Black Olives,115
+Vegetables,Broccoli,34
+Vegetables,Brussels Sprouts,43
+Vegetables,Cabbage,25
+Vegetables,Capsicum,27
+Vegetables,Carrot,41
+Vegetables,Cauliflower,25
+Vegetables,Celery,16
+Vegetables,Chard,19
+Vegetables,Cherry Tomato,100
+Vegetables,Chicory,72
+Vegetables,Chinese Cabbage,16
+Vegetables,Chives,30
+Vegetables,Collard Greens,32
+Vegetables,Corn,365
+Vegetables,Courgette,17
+Vegetables,Creamed Spinach,74
+Vegetables,Cucumber,16
+Vegetables,Eggplant,25
+Vegetables,Endive,17
+Vegetables,Fennel,31
+Vegetables,Garlic,149
+Vegetables,Gherkin,14
+Vegetables,Gourd,14
+Vegetables,Green Beans,31
+Vegetables,Green Olives,115
+Vegetables,Green Onion,32
+Vegetables,Horseradish,48
+Vegetables,Kale,49
+Vegetables,Kohlrabi,27
+Vegetables,Kumara,86
+Vegetables,Leek,61
+Vegetables,Lettuce,15
+Vegetables,Mushrooms,22
+Vegetables,Mustard Greens,27
+Vegetables,Nori,35
+Vegetables,Okra,33
+Vegetables,Olives,115
+Vegetables,Onion,40
+Vegetables,Parsnips,75
+Vegetables,Peas,81
+Vegetables,Pepper,27
+Vegetables,Potato,77
+Vegetables,Pumpkin,26
+Vegetables,Radishes,16
+Vegetables,Red Cabbage,31
+Vegetables,Rutabaga,38
+Vegetables,Shallots,72
+Vegetables,Spinach,23
+Vegetables,Squash,45
+Vegetables,Sweet Potato,86
+Vegetables,Tomato,18
+Vegetables,Turnip Greens,20
+Vegetables,Turnips,28
+Vegetables,Wasabi,109
+Vegetables,Winter Squash,34
+Vegetables,Zucchini,17
+FastFood,Arby’s Grand Turkey Club,210
+FastFood,Arby’s Reuben,208
+FastFood,Arby’s Roast Beef Classic,234
+FastFood,Arby’s Roast Beef Max,234
+FastFood,BBQ Rib,212
+FastFood,Bean Burrito,200
+FastFood,Big N’ Tasty,223
+FastFood,Bratwurst,333
+FastFood,Burger King Angry Whopper,255
+FastFood,Burger King Double Whopper,239
+FastFood,Burger King Double Whopper with Cheese,249
+FastFood,Burger King Original Chicken Sandwich,301
+FastFood,Burger King Premium Alaskan Fish Sandwich,259
+FastFood,Burger King Triple Whopper,269
+FastFood,Burger King Whopper,231
+FastFood,Burger King Whopper Jr.,234
+FastFood,Burger King Whopper with Cheese,241
+FastFood,Cheeseburger,263
+FastFood,Chicken Breast,163
+FastFood,Chicken Fajita,147
+FastFood,Chicken McNuggets,302
+FastFood,Chicken Nuggets,296
+FastFood,Chicken Pizziola,141
+FastFood,Chicken Sandwich,241
+FastFood,Chicken Teriyaki Sandwich,138
+FastFood,Chicken Wings,324
+FastFood,Chop Suey,172
+FastFood,Curly Fries,311
+FastFood,Double Cheeseburger,267
+FastFood,Egg Roll,250
+FastFood,Falafel,335
+FastFood,Filet-o-Fish,282
+FastFood,Fish and Chips,195
+FastFood,Fish Sandwich,273
+FastFood,French Fries,312
+FastFood,Grilled Chicken Salad,88
+FastFood,Ham Sandwich,241
+FastFood,Hamburger,254
+FastFood,Hot Dog,269
+FastFood,Italian BMT,183
+FastFood,Lasagna,132
+FastFood,McDonald’s Big Mac,256
+FastFood,McDonald’s Cheeseburger,263
+FastFood,McDonald’s Chicken Nuggets,297
+FastFood,McDonald’s Double Cheeseburger,282
+FastFood,McDonald’s Filet-o-Fish,275
+FastFood,McDonald’s McChicken,251
+FastFood,McDonald’s McDouble,252
+FastFood,McDonald’s McMuffi Egg,225
+FastFood,McDonald’s McRib,265
+FastFood,McDonald’s Mighty Wings,308
+FastFood,McRib,265
+FastFood,Meatball Sandwich,161
+FastFood,Nachos with Cheese,306
+FastFood,Onion Rings,411
+FastFood,Smoked Salmon,158
+FastFood,Spicy Italian,219
+FastFood,Subway Club Sandwich,131
+FastFood,Tortilla Wrap,271
+FastFood,Tuna,86
+FastFood,Turkey,104
+FastFood,Veggie Burger,181
+FastFood,Veggie Delight,138
+FastFood,Veggie Patty,390
+FastFood,Wendy’s Baconator,304
+FastFood,Wendy’s Jr. Bacon Cheeseburger,261
+FastFood,Wendy’s Jr. Cheeseburger,225
+FastFood,Wendy’s Son of Baconator,321
+FastFood,Whopper,231
+FastFood,Zinger,256
+FastFood,Zinger Burger,256
+FastFood,Poutine,227
+Pizza,BBQ Chicken Pizza,234
+Pizza,BBQ Pizza,224
+Pizza,Beef Pizza,304
+Pizza,Bianca Pizza,246
+Pizza,Buffalo Chicken Pizza,252
+Pizza,Calabrese Pizza,235
+Pizza,Calzone,231
+Pizza,Capricciosa Pizza,260
+Pizza,Cheese Pizza,267
+Pizza,Chicken Pizza,234
+Pizza,Deep Dish Pizza,265
+Pizza,Dominos Philly Cheese Steak Pizza,224
+Pizza,Four Cheese Pizza,221
+Pizza,Goat Cheese Pizza,219
+Pizza,Grilled Pizza,226
+Pizza,Hawaiian Pizza,115
+Pizza,Margherita Pizza,275
+Pizza,Mozzarella Pizza,249
+Pizza,Mushroom Pizza,212
+Pizza,Napoli Pizza,202
+Pizza,New York Style Pizza,169
+Pizza,Pepperoni Pizza,255
+Pizza,Pizza Dough,228
+Pizza,Pizza Hut Stuffed Crust Pizza,255
+Pizza,Pizza Hut Supreme Pizza,248
+Pizza,Pizza Rolls,247
+Pizza,Quattro Formaggi Pizza,248
+Pizza,Red Pepper Pizza,192
+Pizza,Salami Pizza,255
+Pizza,Sausage Pizza,246
+Pizza,Seafood Pizza,245
+Pizza,Shrimp Pizza,209
+Pizza,Sicilian Pizza,241
+Pizza,Spinach Feta Pizza,242
+Pizza,Spinach Pizza,234
+Pizza,Stuffed Crust Pizza,255
+Pizza,Tarte Flambée,253
+Pizza,Thin Crust Pizza,261
+Pizza,Tuna Pizza,254
+Pizza,Vegetable Pizza,256
+Pizza,Vegetarian Pizza,256
+Pizza,Veggie Pizza,231
+Pizza,White Pizza,246
+Cheese,American Cheese,148
+Cheese,Applewood,410
+Cheese,Asiago Cheese,392
+Cheese,Babybel,333
+Cheese,Blue Cheese,353
+Cheese,Brie,334
+Cheese,Camembert,300
+Cheese,Cheddar,403
+Cheese,Cheese Fondue,228
+Cheese,Cheese Spread,290
+Cheese,Cheese Whiz,276
+Cheese,Chester,387
+Cheese,Colby Cheese,394
+Cheese,Colby-Jack Cheese,394
+Cheese,Cottage Cheese,98
+Cheese,Dutch Cheese,393
+Cheese,Edam Cheese,357
+Cheese,Emmentaler,357
+Cheese,Feta,264
+Cheese,Fontina,389
+Cheese,Fresh Mozzarella,280
+Cheese,Gjetost,466
+Cheese,Goat Cheese,364
+Cheese,Gorgonzola,350
+Cheese,Gouda,356
+Cheese,Grated Parmesan,431
+Cheese,Grilled Cheese,350
+Cheese,Gruyere,413
+Cheese,Halloumi,321
+Cheese,Havarti,371
+Cheese,Italian Cheese,397
+Cheese,Jarlsberg,352
+Cheese,Maasdam Cheese,344
+Cheese,Manchego Cheese,320
+Cheese,Monterey,373
+Cheese,Monterey Jack Cheese,373
+Cheese,Mozzarella,280
+Cheese,Muenster Cheese,368
+Cheese,Neufchatel,253
+Cheese,Parmesan,431
+Cheese,Pecorino,387
+Cheese,Provolone,351
+Cheese,Raclette Cheese,357
+Cheese,Ricotta,174
+Cheese,Romano,387
+Cheese,Roquefort,369
+Cheese,Sheep Cheese,364
+Cheese,Soft Cheese,268
+Cheese,Stilton Cheese,393
+Cheese,String Cheese,250
+Cheese,Swiss Cheese,380
+Cheese,White Cheddar,403
+Cheese,Wisconsin Cheese,389
+CreamCheese,Chive Cream Cheese,342
+CreamCheese,Cottage Cheese,98
+CreamCheese,Cream Cheese,342
+CreamCheese,Cream Cheese with Herbs,342
+CreamCheese,Feta Cream Cheese,342
+CreamCheese,Garlic Cream Cheese,342
+CreamCheese,Goat Cheese,364
+CreamCheese,Horseradish,48
+CreamCheese,Mascarpone,450
+CreamCheese,Obatzda,303
+CreamCheese,Olive Cream Cheese,342
+CreamCheese,Pesto Cream Cheese,342
+CreamCheese,Philadelphia Cream Cheese,342
+CreamCheese,Pineapple Cream Cheese,342
+CreamCheese,Salmon Cream Cheese,342
+CreamCheese,Vegetable Cream Cheese,342
+CreamCheese,Walnut Cream Cheese,342
+Milk&DairyProducts,Almond Milk,17
+Milk&DairyProducts,Buttermilk,62
+Milk&DairyProducts,Chocolate Mousse,225
+Milk&DairyProducts,Coconut Milk,230
+Milk&DairyProducts,Coffee Creamer,195
+Milk&DairyProducts,Condensed Milk,321
+Milk&DairyProducts,Cottage Cheese,98
+Milk&DairyProducts,Cream,242
+Milk&DairyProducts,Creme Fraiche,393
+Milk&DairyProducts,Curd,98
+Milk&DairyProducts,Custard,122
+Milk&DairyProducts,Evaporated Milk,135
+Milk&DairyProducts,Goat Milk,69
+Milk&DairyProducts,Hot Chocolate,89
+Milk&DairyProducts,Kefir,55
+Milk&DairyProducts,Lactose-free Milk,52
+Milk&DairyProducts,Lassi,75
+Milk&DairyProducts,Milk,61
+Milk&DairyProducts,Plain Yogurt,61
+Milk&DairyProducts,Powdered Milk,496
+Milk&DairyProducts,Quark,145
+Milk&DairyProducts,Rice Milk,49
+Milk&DairyProducts,Rice Pudding,118
+Milk&DairyProducts,Semi-skimmed Milk,50
+Milk&DairyProducts,Semolina Pudding,67
+Milk&DairyProducts,Skim Milk,35
+Milk&DairyProducts,Sour Cream,181
+Milk&DairyProducts,Soy Milk,45
+Milk&DairyProducts,Sweetened Condensed Milk,321
+Milk&DairyProducts,Tzatziki,117
+Milk&DairyProducts,Whipped Cream,257
+Milk&DairyProducts,Whole Milk,61
+Milk&DairyProducts,Yogurt,61
+SlicedCheese,American Cheese,148
+SlicedCheese,Applewood,410
+SlicedCheese,Bergkäse,418
+SlicedCheese,Butter Cheese,388
+SlicedCheese,Cheddar,403
+SlicedCheese,Cheese Platter,357
+SlicedCheese,Cheese Slices,356
+SlicedCheese,Colby Cheese,394
+SlicedCheese,Colby-Jack Cheese,394
+SlicedCheese,Cold Pack Cheese,246
+SlicedCheese,Edam,357
+SlicedCheese,Edam Cheese,357
+SlicedCheese,Emmental,357
+SlicedCheese,Emmentaler,357
+SlicedCheese,Esrom (Cheese),322
+SlicedCheese,Fol Epi,388
+SlicedCheese,Fresh Mozzarella,280
+SlicedCheese,Gouda,356
+SlicedCheese,Gouda Cheese,356
+SlicedCheese,Havarti,371
+SlicedCheese,Lacy Swiss Cheese,321
+SlicedCheese,Leerdammer,284
+SlicedCheese,Leerdammer Cheese,284
+SlicedCheese,Maasdam Cheese,344
+SlicedCheese,Monterey Jack Cheese,373
+SlicedCheese,Mozzarella,280
+SlicedCheese,Muenster Cheese,368
+SlicedCheese,Pepper Cheese,100
+SlicedCheese,Sandwich Cheese,148
+SlicedCheese,Smoked Cheese,410
+SlicedCheese,Tilsit,340
+SlicedCheese,White American,148
+SlicedCheese,White Cheddar,403
+SlicedCheese,Young Gouda,356
+Yogurt,Activia,74
+Yogurt,Activia Lemon,100
+Yogurt,Activia Strawberry,97
+Yogurt,Aloe Vera Yogurt,85
+Yogurt,Ayran,42
+Yogurt,Bircher Muesli Yogurt,109
+Yogurt,Blueberry Yogurt,105
+Yogurt,Cherry Yogurt,97
+Yogurt,Chocolate Yogurt,128
+Yogurt,Cream Yogurt,124
+Yogurt,Creamy Yogurt,90
+Yogurt,Diet Yogurt,54
+Yogurt,Fruit Yogurt,97
+Yogurt,Greek Yogurt,53
+Yogurt,Low-Fat Yogurt,63
+Yogurt,Mocca Yogurt,100
+Yogurt,Organic Yogurt,75
+Yogurt,Peach Yogurt,97
+Yogurt,Plain Yogurt,61
+Yogurt,Probiotic Yogurt,80
+Yogurt,Skim Milk Yogurt,56
+Yogurt,Stracciatella Yogurt,139
+Yogurt,Strawberry Yogurt,100
+Yogurt,Vanilla Yogurt,101
+Yogurt,Yogurt,61
+Yogurt,Yogurt Corner,119
+Yogurt,Yoplait Boston Cream Pie,90
+Yogurt,Yoplait French Vanilla,100
+Yogurt,Yoplait Greek Blueberry,100
+Yogurt,Yoplait Greek Coconut,100
+Yogurt,Yoplait Greek Strawberry,100
+Yogurt,Yoplait Greek Vanilla,100
+Yogurt,Yoplait Harvest Peach,100
+Yogurt,Yoplait Key Lime Pie,100
+Yogurt,Yoplait Mango,100
+Yogurt,Yoplait Mixed Berry,100
+Yogurt,Yoplait Pina Colada,100
+Yogurt,Yoplait Strawberry,100
+Yogurt,Yoplait Strawberry Banana,100
+Yogurt,Yoplait Strawberry Cheesecake,100
+Beef&Veal,Beef,171
+Beef&Veal,Beef Brisket,137
+Beef&Veal,Beef Fillet,189
+Beef&Veal,Beef Goulash,123
+Beef&Veal,Beef Minute Steak,133
+Beef&Veal,Beef Neck,213
+Beef&Veal,Beef Pancreas,271
+Beef&Veal,Beef Patty,247
+Beef&Veal,Beef Prime Rib,404
+Beef&Veal,Beef Ribs,196
+Beef&Veal,Beef Sirloin,182
+Beef&Veal,Beef Suet,854
+Beef&Veal,Beef Tallow,902
+Beef&Veal,Beef Thymus,319
+Beef&Veal,Beef Tripe,94
+Beef&Veal,Chuck Roast,141
+Beef&Veal,Chuck Steak,137
+Beef&Veal,Filet Mignon,207
+Beef&Veal,Flank Steak,194
+Beef&Veal,Ground Beef,241
+Beef&Veal,Ground Chuck,250
+Beef&Veal,Ground Round,212
+Beef&Veal,Minced Veal,143
+Beef&Veal,Porterhouse Steak,247
+Beef&Veal,Rib Eye Steak,217
+Beef&Veal,Roast Beef,187
+Beef&Veal,Rump Steak,171
+Beef&Veal,Skirt Steak,205
+Beef&Veal,Stew Beef,191
+Beef&Veal,Strip Steak,117
+Beef&Veal,T-Bone-Steak,221
+Beef&Veal,Veal,282
+Beef&Veal,Veal Breast,282
+Beef&Veal,Veal Leg,211
+Beef&Veal,Veal Roast Beef,175
+Beef&Veal,Veal Shank,177
+Beef&Veal,Veal Shoulder,183
+Beef&Veal,Veal Sirloin,204
+Beef&Veal,Veal Tenderloin,217
+ColdCuts&LunchMeat,Baked Ham,343
+ColdCuts&LunchMeat,Beef Salami,375
+ColdCuts&LunchMeat,Boiled Ham,126
+ColdCuts&LunchMeat,Bologna,247
+ColdCuts&LunchMeat,Bresaola,178
+ColdCuts&LunchMeat,Capicola,110
+ColdCuts&LunchMeat,Chicken Breast Fillet,79
+ColdCuts&LunchMeat,Chopped Ham,180
+ColdCuts&LunchMeat,Chorizo,455
+ColdCuts&LunchMeat,Corned Beef,251
+ColdCuts&LunchMeat,Dutch Loaf,268
+ColdCuts&LunchMeat,Ham,145
+ColdCuts&LunchMeat,Ham Sausage,164
+ColdCuts&LunchMeat,Head Cheese,157
+ColdCuts&LunchMeat,Hickory Ham,188
+ColdCuts&LunchMeat,Honey Ham,122
+ColdCuts&LunchMeat,Liverwurst,326
+ColdCuts&LunchMeat,Olive Loaf,232
+ColdCuts&LunchMeat,Oven-Roasted Turkey Breast,104
+ColdCuts&LunchMeat,Parma Ham,345
+ColdCuts&LunchMeat,Pastrami,133
+ColdCuts&LunchMeat,Pepperoni,494
+ColdCuts&LunchMeat,Pimento Loaf,265
+ColdCuts&LunchMeat,Pork Roast,247
+ColdCuts&LunchMeat,Prosciutto,195
+ColdCuts&LunchMeat,Roast Beef,267
+ColdCuts&LunchMeat,Salami,336
+ColdCuts&LunchMeat,Serrano Ham,300
+ColdCuts&LunchMeat,Smoked Ham,107
+ColdCuts&LunchMeat,Smoked Turkey Breast,104
+ColdCuts&LunchMeat,Summer Sausage,298
+ColdCuts&LunchMeat,Tongue,284
+ColdCuts&LunchMeat,Turkey Breast,104
+ColdCuts&LunchMeat,Turkey Ham,126
+ColdCuts&LunchMeat,Turkey Salami,152
+Meat,Alligator,232
+Meat,Beef,248
+Meat,Beef Brisket,242
+Meat,Beef Jerky,410
+Meat,Beef Ribs,238
+Meat,Beef Tenderloin,218
+Meat,Chicken,219
+Meat,Chicken Breast,172
+Meat,Chicken Drumstick,185
+Meat,Chicken Fat,898
+Meat,Chicken Giblets,158
+Meat,Chicken Gizzards,146
+Meat,Chicken Leg,174
+Meat,Chicken Liver,167
+Meat,Chicken Meat,172
+Meat,Chicken Thigh,229
+Meat,Chicken Wing,266
+Meat,Chuck Steak,277
+Meat,Cubed Steak,199
+Meat,Duck,337
+Meat,Filet Mignon,267
+Meat,Flank Steak,194
+Meat,Flat Iron Steak,137
+Meat,Ground Beef,246
+Meat,Ground Round,246
+Meat,Ham,163
+Meat,New York Strip Steak,199
+Meat,Ostrich,145
+Meat,Pork,196
+Meat,Pork Baby Back Ribs,212
+Meat,Pork Chops,196
+Meat,Pork Country-Style Ribs,247
+Meat,Pork Loin,204
+Meat,Pork Roast,254
+Meat,Pork Steaks,196
+Meat,Roast Beef,140
+Meat,Round Steak,182
+Meat,Schnitzel,156
+Meat,Spare Ribs,238
+Meat,Standing Rib Roast,333
+Meat,T-Bone Steak,202
+Meat,Turkey,189
+Meat,Turkey Breast,135
+Meat,Turkey Legs,208
+Meat,Turkey Steak,189
+Meat,Turkey Wings,221
+Offal&Giblets,Beef Brain,196
+Offal&Giblets,Beef Heart,165
+Offal&Giblets,Beef Kidney,158
+Offal&Giblets,Beef Liver,191
+Offal&Giblets,Beef Lung,120
+Offal&Giblets,Beef Melt,271
+Offal&Giblets,Beef Tongue,284
+Offal&Giblets,Calf Brain,136
+Offal&Giblets,Calf Liver,192
+Offal&Giblets,Calf Lung,104
+Offal&Giblets,Calf Melt,256
+Offal&Giblets,Chicken Giblets,277
+Offal&Giblets,Chicken Heart,185
+Offal&Giblets,Chicken Liver,172
+Offal&Giblets,Chicken Stomach,148
+Offal&Giblets,Chitterlings,233
+Offal&Giblets,Duck Liver,136
+Offal&Giblets,Goose Liver,133
+Offal&Giblets,Hog Maws,157
+Offal&Giblets,Pig Brain,138
+Offal&Giblets,Pig Heart,148
+Offal&Giblets,Pig Kidney,151
+Offal&Giblets,Pig Lung,99
+Offal&Giblets,Pork Liver,165
+Offal&Giblets,Pork Melt,219
+Offal&Giblets,Pork Tongue,271
+Offal&Giblets,Turkey Giblets,173
+Offal&Giblets,Turkey Heart,174
+Offal&Giblets,Turkey Liver,189
+Offal&Giblets,Turkey Stomach,148
+Offal&Giblets,Veal Heart,186
+Offal&Giblets,Veal Kidney,163
+Offal&Giblets,Veal Tongue,202
+Pork,Bacon,407
+Pork,Brawn,309
+Pork,Canadian-Style Bacon,107
+Pork,Chitterlings,233
+Pork,Ground Pork,263
+Pork,Hog Maws,250
+Pork,Lard,898
+Pork,Meatloaf,89
+Pork,Parma Ham,261
+Pork,Pig Ear,166
+Pork,Pig Fat,638
+Pork,Pig’s Tail,396
+Pork,Pig’s Trotter,243
+Pork,Pork Bacon,407
+Pork,Pork Belly,518
+Pork,Pork Blade Steak,232
+Pork,Pork Chop,123
+Pork,Pork Country-Style Ribs,133
+Pork,Pork Crown Roast,212
+Pork,Pork Cutlet,131
+Pork,Pork Cutlets,131
+Pork,Pork Leg,201
+Pork,Pork Loin,143
+Pork,Pork Meatloaf,243
+Pork,Pork Ragout,73
+Pork,Pork Rib Roast,159
+Pork,Pork Ribs,292
+Pork,Pork Roast,194
+Pork,Pork Sausage,339
+Pork,Pork Shank,172
+Pork,Pork Shoulder,269
+Pork,Pork Shoulder Blade,232
+Pork,Pork Stomach,250
+Pork,Rack of Pork,241
+Pork,Salt Meat,286
+Pork,Salt Pork,286
+Pork,Serrano Ham,339
+Pork,Spare Ribs,396
+Pork,Spareribs,238
+Poultry&Fowl,Capon,229
+Poultry&Fowl,Chicken,219
+Poultry&Fowl,Chicken Breast,172
+Poultry&Fowl,Chicken Drumsticks,185
+Poultry&Fowl,Chicken Gizzards,154
+Poultry&Fowl,Chicken Legs,174
+Poultry&Fowl,Chicken Thighs,229
+Poultry&Fowl,Chicken Wings,266
+Poultry&Fowl,Cornish Hens,259
+Poultry&Fowl,Dove,213
+Poultry&Fowl,Duck,337
+Poultry&Fowl,Duck Breast,201
+Poultry&Fowl,Emu,152
+Poultry&Fowl,Goose,305
+Poultry&Fowl,Guinea-Fowl,158
+Poultry&Fowl,Ostrich,145
+Poultry&Fowl,Ostrich Meat,145
+Poultry&Fowl,Pheasant,239
+Poultry&Fowl,Pheasant Breast,133
+Poultry&Fowl,Pheasant Leg,239
+Poultry&Fowl,Pigeon,142
+Poultry&Fowl,Poularde,200
+Poultry&Fowl,Quail,227
+Poultry&Fowl,Quail Breast,123
+Poultry&Fowl,Rhea,160
+Poultry&Fowl,Turkey,189
+Poultry&Fowl,Turkey Breast,135
+Poultry&Fowl,Turkey Cutlet,189
+Poultry&Fowl,Turkey Drumsticks,208
+Poultry&Fowl,Turkey Legs,208
+Poultry&Fowl,Turkey Steak,189
+Poultry&Fowl,Turkey Wings,221
+Poultry&Fowl,Wild Duck,211
+Sausage,Andouille,232
+Sausage,Bacon,407
+Sausage,Black Pudding,379
+Sausage,Blood Sausage,379
+Sausage,Bockwurst,301
+Sausage,Boiled Ham,104
+Sausage,Bologna,247
+Sausage,Boudin,194
+Sausage,Bratwurst,297
+Sausage,Brawn,157
+Sausage,Breakfast Sausage Links,339
+Sausage,Cheese Pastry,374
+Sausage,Chicken Breast,79
+Sausage,Chicken Meat,79
+Sausage,Chicken Salad,81
+Sausage,Chorizo,455
+Sausage,Cooked Ham,133
+Sausage,Corned Beef,153
+Sausage,Cumberland Sausage,250
+Sausage,Frankfurters,305
+Sausage,Garlic Sausage,169
+Sausage,Hot Dogs,278
+Sausage,Hot Sausage,259
+Sausage,Italian Sausage,149
+Sausage,Jerky,410
+Sausage,Kielbasa,309
+Sausage,Knackwurst,307
+Sausage,Landjaeger,352
+Sausage,Linguica,282
+Sausage,Liver Pate,319
+Sausage,Liverwurst,326
+Sausage,Luncheon Meat,117
+Sausage,Mettwurst,310
+Sausage,Mortadella,311
+Sausage,Pastrami,133
+Sausage,Pepperoni,494
+Sausage,Polish Sausage,301
+Sausage,Pork,247
+Sausage,Pork Roll,302
+Sausage,Prosciutto,195
+Sausage,Ring Bologna,286
+Sausage,Salami,336
+Sausage,Sausage,230
+Sausage,Smoked Sausage,301
+Sausage,Souse,157
+Sausage,Spam,315
+Sausage,Weisswurst,313
+Venison&Game,Alligator,104
+Venison&Game,Alligator Meat,232
+Venison&Game,Antelope Meat,150
+Venison&Game,Bear Meat,259
+Venison&Game,Beaver Meat,212
+Venison&Game,Bison,171
+Venison&Game,Bison Meat,171
+Venison&Game,Bison Sirloin,171
+Venison&Game,Buffalo,131
+Venison&Game,Buffalo Meat,131
+Venison&Game,Caribou,159
+Venison&Game,Goose,238
+Venison&Game,Goose Meat,238
+Venison&Game,Lamb,202
+Venison&Game,Lamb Meat,202
+Venison&Game,Mallard Duck Meat,211
+Venison&Game,Mallard Meat,211
+Venison&Game,Moose,134
+Venison&Game,Moose Meat,134
+Venison&Game,Mutton,234
+Venison&Game,Mutton Meat,234
+Venison&Game,Ostrich,175
+Venison&Game,Ostrich Meat,175
+Venison&Game,Pheasant,239
+Venison&Game,Pheasant Meat,239
+Venison&Game,Rabbit,197
+Venison&Game,Racoon,255
+Venison&Game,Racoon Meat,255
+Venison&Game,Reindeer,200
+Venison&Game,Reindeer Meat,200
+Venison&Game,Squirrel,173
+Venison&Game,Squirrel Meat,173
+Venison&Game,Venison,164
+Venison&Game,Venison Sirloin,158
+Venison&Game,Wild Boar,160
+Venison&Game,Wild Boar Meat,160
+Cakes&Pies,Angel Food Cake,258
+Cakes&Pies,Apple Cake,252
+Cakes&Pies,Apple Cobbler,198
+Cakes&Pies,Apple Crisp,156
+Cakes&Pies,Apple Crumble,156
+Cakes&Pies,Apple Pie,237
+Cakes&Pies,Apple Strudel,274
+Cakes&Pies,Apple Turnover,348
+Cakes&Pies,Applesauce Cake,358
+Cakes&Pies,Baked Alaska,247
+Cakes&Pies,Bakewell Tart,430
+Cakes&Pies,Banoffee Pie,395
+Cakes&Pies,Birthday Cake,465
+Cakes&Pies,Black and White Cookie,381
+Cakes&Pies,Black Forest Cake,264
+Cakes&Pies,Blueberry Cobbler,234
+Cakes&Pies,Blueberry Muffin,377
+Cakes&Pies,Blueberry Pie,232
+Cakes&Pies,Bundt Cake,370
+Cakes&Pies,Buttermilk Pie,380
+Cakes&Pies,Caramel Cake,475
+Cakes&Pies,Carrot Cake,408
+Cakes&Pies,Cheesecake,321
+Cakes&Pies,Cherry Pie,260
+Cakes&Pies,Chess Pie,411
+Cakes&Pies,Chocolate Cake,389
+Cakes&Pies,Chocolate Cream Pie,304
+Cakes&Pies,Chocolate Mousse Cake,260
+Cakes&Pies,Chocolate Mousse Pie,260
+Cakes&Pies,Chocolate Muffin,420
+Cakes&Pies,Coconut Cake,356
+Cakes&Pies,Coffee Cake,331
+Cakes&Pies,Cream Puff,334
+Cakes&Pies,Crumb Cake,441
+Cakes&Pies,Cupcake,305
+Cakes&Pies,Danish Pastry,374
+Cakes&Pies,Donut,403
+Cakes&Pies,Doughnut,403
+Cakes&Pies,Flan,145
+Cakes&Pies,Flourless Chocolate Cake,509
+Cakes&Pies,French Cruller,412
+Cakes&Pies,Fruit Cake,324
+Cakes&Pies,Funnel Cake,307
+Cakes&Pies,German Chocolate Cake,370
+Cakes&Pies,Gingerbread,356
+Cakes&Pies,Ice Cream Cake,200
+Cakes&Pies,Key Lime Pie,359
+Cakes&Pies,King Cake,377
+Cakes&Pies,Layer Cake,402
+Cakes&Pies,Lemon Cake,352
+Cakes&Pies,Lemon Meringue Pie,268
+Cakes&Pies,Madeira Cake,394
+Cakes&Pies,Marble Cake,339
+Cakes&Pies,Meringue,285
+Cakes&Pies,Opera Cake,320
+Cakes&Pies,Paczki,336
+Cakes&Pies,Pancake,227
+Cakes&Pies,Panettone,360
+Cakes&Pies,Pavlova,294
+Cakes&Pies,Peach Cobbler,65
+Cakes&Pies,Peach Pie,223
+Cakes&Pies,Pecan Pie,407
+Cakes&Pies,Pineapple Upside-Down Cake,319
+Cakes&Pies,Plum Cake,109
+Cakes&Pies,Poppy-Seed Cake,394
+Cakes&Pies,Pound Cake,390
+Cakes&Pies,Profiterole,334
+Cakes&Pies,Puff Pastry,558
+Cakes&Pies,Pumpkin Bread,298
+Cakes&Pies,Pumpkin Cheesecake,340
+Cakes&Pies,Pumpkin Pie,243
+Cakes&Pies,Raspberry Pie,240
+Cakes&Pies,Red Velvet Cake,367
+Cakes&Pies,Rhubarb Pie,245
+Cakes&Pies,Rum Cake,351
+Cakes&Pies,Sacher Torte,352
+Cakes&Pies,Sponge Cake,289
+Cakes&Pies,Strawberry Cheesecake,327
+Cakes&Pies,Strawberry Pie,230
+Cakes&Pies,Strawberry Rhubarb Pie,281
+Cakes&Pies,Sweet Potato Pie,260
+Cakes&Pies,Swiss Roll,439
+Cakes&Pies,Tarte Tatin,210
+Cakes&Pies,Tiramisu,283
+Cakes&Pies,Tiramisu Cake,291
+Cakes&Pies,Treacle Tart,369
+Cakes&Pies,Tres Leches Cake,246
+Cakes&Pies,Trifle,180
+Cakes&Pies,Victoria Sponge Cake,257
+Cakes&Pies,Waffles,312
+Cakes&Pies,Wedding Cake,381
+Candy&Sweets,3 Musketeers,400
+Candy&Sweets,After Eight,452
+Candy&Sweets,Airheads,375
+Candy&Sweets,Almond Roca,571
+Candy&Sweets,Angel Delight,451
+Candy&Sweets,Animal Crackers,446
+Candy&Sweets,Baby Ruth,469
+Candy&Sweets,Butterfinger,450
+Candy&Sweets,Buttermilk Pancakes,238
+Candy&Sweets,Candy Apple,152
+Candy&Sweets,Candy Cane,423
+Candy&Sweets,Candy canes,423
+Candy&Sweets,Candy Corn,360
+Candy&Sweets,Candy Floss,400
+Candy&Sweets,Caramel Popcorn,376
+Candy&Sweets,Caramel squares,367
+Candy&Sweets,Celebrations,490
+Candy&Sweets,Cheez-It’s,533
+Candy&Sweets,Chocolate,529
+Candy&Sweets,Chocolate Bar,533
+Candy&Sweets,Chocolate Chips,493
+Candy&Sweets,Cookies,488
+Candy&Sweets,Cotton Candy,643
+Candy&Sweets,Eggy Bread,196
+Candy&Sweets,Fairy Cakes,440
+Candy&Sweets,Ferrero Rocher,576
+Candy&Sweets,Flapjack,486
+Candy&Sweets,Fortune Cookies,214
+Candy&Sweets,Granola Bars,452
+Candy&Sweets,Gumdrops,321
+Candy&Sweets,Gummi Bears,316
+Candy&Sweets,Hanuta,541
+Candy&Sweets,Hershey Kisses,471
+Candy&Sweets,Jelly Beans,354
+Candy&Sweets,Jelly Belly,354
+Candy&Sweets,Jolly Ranchers,385
+Candy&Sweets,Jordan Almonds,429
+Candy&Sweets,Kit Kat,521
+Candy&Sweets,Laffy Taffy,372
+Candy&Sweets,Licorice,375
+Candy&Sweets,LifeSavers,500
+Candy&Sweets,Lindt Chocolate,548
+Candy&Sweets,Liquorice,375
+Candy&Sweets,Lollipop,392
+Candy&Sweets,M&M’s,479
+Candy&Sweets,Maltesers,498
+Candy&Sweets,Mars Bar,448
+Candy&Sweets,Marshmallows,318
+Candy&Sweets,Marzipan,411
+Candy&Sweets,Mike and Ike,360
+Candy&Sweets,Milk Duds,422
+Candy&Sweets,Milky Way,449
+Candy&Sweets,PayDay,462
+Candy&Sweets,Peanut Bar,533
+Candy&Sweets,Peanut Brittle,183
+Candy&Sweets,Peanut Butter Bars,379
+Candy&Sweets,Peanut Butter Cookies,475
+Candy&Sweets,Peppermint bark,500
+Candy&Sweets,Pez,427
+Candy&Sweets,Pop Rocks,358
+Candy&Sweets,Popcorn,582
+Candy&Sweets,Pumpkin Seeds,560
+Candy&Sweets,Reeses Peanut Butter Cups,536
+Candy&Sweets,Rice Pudding,134
+Candy&Sweets,Roasted Almonds,452
+Candy&Sweets,Rolo,474
+Candy&Sweets,S’mores,500
+Candy&Sweets,Semolina,340
+Candy&Sweets,Skittles,405
+Candy&Sweets,Smarties,357
+Candy&Sweets,Smores,500
+Candy&Sweets,Snickers,484
+Candy&Sweets,Sour Patch Kids,363
+Candy&Sweets,Speculoos,469
+Candy&Sweets,Spritz Cookies,500
+Candy&Sweets,Take 5,476
+Candy&Sweets,Toblerone,525
+Candy&Sweets,Trifle,186
+Candy&Sweets,Twix,495
+Candy&Sweets,Waffles,272
+Candy&Sweets,Whoopie Pie,400
+IceCream,Baskin-Robbins,239
+IceCream,Ben and Jerry’s,228
+IceCream,Butter Pecan Ice Cream,248
+IceCream,Carvel,212
+IceCream,Chocolate Chip Ice Cream,215
+IceCream,Chocolate Ice Cream,216
+IceCream,Ciao Bella,109
+IceCream,Coffee Ice Cream,236
+IceCream,Cold Stone Creamery,232
+IceCream,Cookie Dough Ice Cream,200
+IceCream,Crunchie McFlurry,174
+IceCream,Dairy Milk McFlurry,186
+IceCream,Dippin Dots,224
+IceCream,Double Rainbow,257
+IceCream,Drumsticks,255
+IceCream,French Vanilla Ice Cream,201
+IceCream,Friendly’s,212
+IceCream,Healthy Choice,125
+IceCream,Hot Fudge Sundae,186
+IceCream,Ice Cream Sandwich,237
+IceCream,Ice Cream Sundae,142
+IceCream,Ice Milk,159
+IceCream,Magnolia,230
+IceCream,Magnum,300
+IceCream,Magnum Almond,315
+IceCream,Magnum Double Caramel,355
+IceCream,Magnum Double Chocolate,380
+IceCream,Magnum Gold,341
+IceCream,Magnum White,297
+IceCream,McFlurry,153
+IceCream,McFlurry Oreo,186
+IceCream,Mini Milk,120
+IceCream,Mint Chocolate Chip Ice Cream,239
+IceCream,Rocky Road Ice Cream,257
+IceCream,Schwan’s,246
+IceCream,Smarties McFlurry,198
+IceCream,Snickers Ice Cream,360
+IceCream,Soft Serve,222
+IceCream,Solero,100
+IceCream,Strawberry Ice Cream,236
+IceCream,Strawberry Sundae,158
+IceCream,Sundae,215
+IceCream,Turkey Hill,271
+IceCream,Vanilla Cone,162
+IceCream,Vanilla Ice Cream,201
+(Fruit)Juices,Acai Juice,58
+(Fruit)Juices,Aloe Vera,44
+(Fruit)Juices,Apple Juice,46
+(Fruit)Juices,Apricot Nectar,56
+(Fruit)Juices,Banana Juice,50
+(Fruit)Juices,Blackberry Juice,48
+(Fruit)Juices,Boysenberry Juice,54
+(Fruit)Juices,Capri-Sun,41
+(Fruit)Juices,Carrot Juice,40
+(Fruit)Juices,Chamomile Tea,0
+(Fruit)Juices,Cherry Juice,45
+(Fruit)Juices,Clamato,60
+(Fruit)Juices,Coconut Milk,233
+(Fruit)Juices,Coconut Water,19
+(Fruit)Juices,Concord Grape,71
+(Fruit)Juices,Cranberry Apple Juice,67
+(Fruit)Juices,Cranberry Grape Juice,71
+(Fruit)Juices,Cranberry Juice,46
+(Fruit)Juices,Cucumber Juice,10
+(Fruit)Juices,Currant Juice,48
+(Fruit)Juices,Energy-Drink,87
+(Fruit)Juices,Fruitopia,110
+(Fruit)Juices,Grape Juice,60
+(Fruit)Juices,Grapefruit Juice,46
+(Fruit)Juices,Lemon Juice,21
+(Fruit)Juices,Lemonade,50
+(Fruit)Juices,Lime Juice,21
+(Fruit)Juices,Limeade,128
+(Fruit)Juices,Mango Lassi,66
+(Fruit)Juices,Nestea,21
+(Fruit)Juices,Orange Juice,46
+(Fruit)Juices,Papaya Juice,58
+(Fruit)Juices,Passion Fruit Juice,48
+(Fruit)Juices,Peach Juice,54
+(Fruit)Juices,Peach Nectar,54
+(Fruit)Juices,Pear Juice,60
+(Fruit)Juices,Pear Nectar,60
+(Fruit)Juices,Pineapple Juice,53
+(Fruit)Juices,Pineapple Orange Juice,50
+(Fruit)Juices,Plum Juice,71
+(Fruit)Juices,Pomegranate Juice,66
+(Fruit)Juices,Sauerkraut Juice,14
+(Fruit)Juices,Tangerine Juice,43
+(Fruit)Juices,Tomato Juice,17
+(Fruit)Juices,Vegetable Juice,21
+(Fruit)Juices,White Grape Juice,75
+AlcoholicDrinks&Beverages,Absinthe,348
+AlcoholicDrinks&Beverages,Advocaat,283
+AlcoholicDrinks&Beverages,Amaretto,310
+AlcoholicDrinks&Beverages,Applejack,233
+AlcoholicDrinks&Beverages,Asti,138
+AlcoholicDrinks&Beverages,Bailey’s Irish Cream,327
+AlcoholicDrinks&Beverages,Baileys,327
+AlcoholicDrinks&Beverages,Beer,43
+AlcoholicDrinks&Beverages,Blue Curacao,243
+AlcoholicDrinks&Beverages,Bourbon,233
+AlcoholicDrinks&Beverages,Brandy,213
+AlcoholicDrinks&Beverages,Canadian Whiskey,216
+AlcoholicDrinks&Beverages,Chambord,348
+AlcoholicDrinks&Beverages,Champagne,75
+AlcoholicDrinks&Beverages,Cider,49
+AlcoholicDrinks&Beverages,Cognac,235
+AlcoholicDrinks&Beverages,Cointreau,320
+AlcoholicDrinks&Beverages,Drambuie,358
+AlcoholicDrinks&Beverages,Frangelico,238
+AlcoholicDrinks&Beverages,Gin,263
+AlcoholicDrinks&Beverages,Glenfiddich,230
+AlcoholicDrinks&Beverages,Grand Marnier,253
+AlcoholicDrinks&Beverages,Irish Whiskey,233
+AlcoholicDrinks&Beverages,Jack Daniel’s,146
+AlcoholicDrinks&Beverages,Jagermeister,250
+AlcoholicDrinks&Beverages,Jim Beam,222
+AlcoholicDrinks&Beverages,Kahlua,180
+AlcoholicDrinks&Beverages,Liqueur,250
+AlcoholicDrinks&Beverages,Liquor,250
+AlcoholicDrinks&Beverages,Midori,267
+AlcoholicDrinks&Beverages,Prosecco,66
+AlcoholicDrinks&Beverages,Punch,62
+AlcoholicDrinks&Beverages,Red Wine,85
+AlcoholicDrinks&Beverages,Rose Wine,71
+AlcoholicDrinks&Beverages,Rum,231
+AlcoholicDrinks&Beverages,Sambuca,333
+AlcoholicDrinks&Beverages,Sangria,96
+AlcoholicDrinks&Beverages,Scotch,222
+AlcoholicDrinks&Beverages,Sherry,116
+AlcoholicDrinks&Beverages,Sloe Gin,332
+AlcoholicDrinks&Beverages,Southern Comfort,247
+AlcoholicDrinks&Beverages,Tequila,110
+AlcoholicDrinks&Beverages,Triple Sec,153
+AlcoholicDrinks&Beverages,Vermouth,130
+AlcoholicDrinks&Beverages,Vodka,231
+AlcoholicDrinks&Beverages,Whisky,250
+AlcoholicDrinks&Beverages,White Wine,82
+AlcoholicDrinks&Beverages,Wine,83
+Beer,Ale,35
+Beer,Altbier,43
+Beer,Bass,45
+Beer,Beck’s,39
+Beer,Beer,43
+Beer,Blue Moon,48
+Beer,Bock Beer,50
+Beer,Buckler (N.A.),21
+Beer,Bud Ice,35
+Beer,Bud Light,29
+Beer,Bud Light Chelada,43
+Beer,Bud Light Lime,34
+Beer,Bud Select,28
+Beer,Bud Select 55,15
+Beer,Budweiser,41
+Beer,Budweiser Chelada,52
+Beer,Busch,37
+Beer,Busch Light,27
+Beer,Busch N.A.,17
+Beer,Carlsberg,32
+Beer,Clausthaler (N.A.),26
+Beer,Colt 45,44
+Beer,Coors,42
+Beer,Coors Light,29
+Beer,Coors N.A.,18
+Beer,Corona,42
+Beer,Dark Beer,46
+Beer,Genesee Cream Ale,46
+Beer,Ginger Beer,42
+Beer,Guinness,35
+Beer,Heineken,35
+Beer,Honey Brown,42
+Beer,Hurricane High Gravity,39
+Beer,IPA,51
+Beer,Keystone Ice,40
+Beer,Keystone Light,29
+Beer,Koelsch,43
+Beer,Labatt,43
+Beer,Lager Beer,43
+Beer,Land Shark,42
+Beer,Light Beer,29
+Beer,Lowenbrau,45
+Beer,Malt Beer,37
+Beer,Michelob Amber Bock,47
+Beer,Michelob Lager,44
+Beer,Michelob Light,32
+Beer,Michelob Ultra,27
+Beer,Michelob Ultra Amber,26
+Beer,Michelob Ultra Lime Cactus,27
+Beer,Miller Chill,31
+Beer,Miller Genuine Draft,40
+Beer,Miller High Life,40
+Beer,Miller High Life Light,31
+Beer,Miller Lite,27
+Beer,Milwaukee’s Best,36
+Beer,Milwaukee’s Best Light,28
+Beer,Molson,42
+Beer,Natural Ice,44
+Beer,Natural Light,27
+Beer,Newcastle,39
+Beer,Non-alcoholic Beer,37
+Beer,O’Doul’s (N.A.),19
+Beer,Old Milwaukee,41
+Beer,Old Milwaukee N.A.,16
+Beer,Olde English,45
+Beer,Pabst Blue Ribbon,41
+Beer,Pale Ale,42
+Beer,Pilsner,43
+Beer,Porter,54
+Beer,Redbridge (Gluten-free),45
+Beer,Rolling Rock,37
+Beer,Rolling Rock Light,30
+Beer,Root Beer,41
+Beer,Samuel Adams,45
+Beer,Shock Top,47
+Beer,Shock Top Raspberry Wheat,50
+Beer,Sierra Nevada Strong,62
+Beer,Sparks,74
+Beer,St. Pauli Girl,42
+Beer,Steel Reserve,63
+Beer,Stout,51
+Beer,Stout Beer,51
+Beer,Strong Beer,55
+Beer,Tilt,64
+Beer,Wheat Beer,45
+Non-AlcoholicDrinks&Beverages,ACE Drink,44
+Non-AlcoholicDrinks&Beverages,Apple Spritzer,24
+Non-AlcoholicDrinks&Beverages,Chai,0
+Non-AlcoholicDrinks&Beverages,Chai Tea,0
+Non-AlcoholicDrinks&Beverages,Chocolate Milk,89
+Non-AlcoholicDrinks&Beverages,Chocolate Milkshake,125
+Non-AlcoholicDrinks&Beverages,Club Mate,30
+Non-AlcoholicDrinks&Beverages,Coca Cola,42
+Non-AlcoholicDrinks&Beverages,Coffee,1
+Non-AlcoholicDrinks&Beverages,Coke Zero,1
+Non-AlcoholicDrinks&Beverages,Cola,42
+Non-AlcoholicDrinks&Beverages,Crystal Light,263
+Non-AlcoholicDrinks&Beverages,Diet Coke,1
+Non-AlcoholicDrinks&Beverages,Egg Cream,94
+Non-AlcoholicDrinks&Beverages,Egg Nog,88
+Non-AlcoholicDrinks&Beverages,Elderflower Cordial,29
+Non-AlcoholicDrinks&Beverages,Evian,0
+Non-AlcoholicDrinks&Beverages,Gatorade,23
+Non-AlcoholicDrinks&Beverages,Ginger Tea,0
+Non-AlcoholicDrinks&Beverages,Hawaiian Punch,31
+Non-AlcoholicDrinks&Beverages,Hi-C,49
+Non-AlcoholicDrinks&Beverages,Horchata,54
+Non-AlcoholicDrinks&Beverages,Hot Chocolate,89
+Non-AlcoholicDrinks&Beverages,Ice Tea,27
+Non-AlcoholicDrinks&Beverages,Iced Tea,27
+Non-AlcoholicDrinks&Beverages,Karamalz,37
+Non-AlcoholicDrinks&Beverages,Kombucha,13
+Non-AlcoholicDrinks&Beverages,Kool-Aid,26
+Non-AlcoholicDrinks&Beverages,Lassi,104
+Non-AlcoholicDrinks&Beverages,Latte Macchiato,57
+Non-AlcoholicDrinks&Beverages,Lemonade,42
+Non-AlcoholicDrinks&Beverages,Malt Beer,37
+Non-AlcoholicDrinks&Beverages,Milk,61
+Non-AlcoholicDrinks&Beverages,Milkshake (dry),329
+Non-AlcoholicDrinks&Beverages,Milo,409
+Non-AlcoholicDrinks&Beverages,Nectar,53
+Non-AlcoholicDrinks&Beverages,Nestea,36
+Non-AlcoholicDrinks&Beverages,Non-alcoholic Beer,37
+Non-AlcoholicDrinks&Beverages,Powerade,16
+Non-AlcoholicDrinks&Beverages,Slurpee,4
+Non-AlcoholicDrinks&Beverages,Slush Puppie,50
+Non-AlcoholicDrinks&Beverages,Smoothie,37
+Non-AlcoholicDrinks&Beverages,Soy Milk,45
+Non-AlcoholicDrinks&Beverages,Strawberry Milkshake,113
+Non-AlcoholicDrinks&Beverages,Tang,381
+Non-AlcoholicDrinks&Beverages,Tap Water,0
+Non-AlcoholicDrinks&Beverages,Tea,1
+Non-AlcoholicDrinks&Beverages,Vanilla Milkshake,149
+Non-AlcoholicDrinks&Beverages,Volvic,0
+Non-AlcoholicDrinks&Beverages,Water,0
+Non-AlcoholicDrinks&Beverages,Yerba Mate,62
+Soda&SoftDrinks,7up,44
+Soda&SoftDrinks,Barq’s,46
+Soda&SoftDrinks,Bitter Lemon,34
+Soda&SoftDrinks,Canada Dry Ginger Ale,41
+Soda&SoftDrinks,Cherry Coke,44
+Soda&SoftDrinks,Coke,42
+Soda&SoftDrinks,Coke Zero,0
+Soda&SoftDrinks,Diet Cherry Coke,1
+Soda&SoftDrinks,Diet Coke,1
+Soda&SoftDrinks,Diet Dr. Pepper,0
+Soda&SoftDrinks,Diet Pepsi,0
+Soda&SoftDrinks,Diet Sunkist,0
+Soda&SoftDrinks,Dr. Brown’s,53
+Soda&SoftDrinks,Dr. Pepper,27
+Soda&SoftDrinks,Fanta,39
+Soda&SoftDrinks,Fanta Zero,0
+Soda&SoftDrinks,Five Alive,35
+Soda&SoftDrinks,Fresca,0
+Soda&SoftDrinks,Full Throttle,110
+Soda&SoftDrinks,Fuze,20
+Soda&SoftDrinks,Fuze Tea,25
+Soda&SoftDrinks,Gatorade,25
+Soda&SoftDrinks,Ginger Ale,35
+Soda&SoftDrinks,Ice Tea,27
+Soda&SoftDrinks,Jolt Cola,44
+Soda&SoftDrinks,Kool-Aid,26
+Soda&SoftDrinks,Lemonade,42
+Soda&SoftDrinks,Mello Yello,49
+Soda&SoftDrinks,Minute Maid,46
+Soda&SoftDrinks,Minute Maid Light,2
+Soda&SoftDrinks,Mug Root Beer,42
+Soda&SoftDrinks,Orange Soda,48
+Soda&SoftDrinks,Pepsi,44
+Soda&SoftDrinks,Pibb Xtra,40
+Soda&SoftDrinks,Powerade,120
+Soda&SoftDrinks,Schweppes Ginger Ale,38
+Soda&SoftDrinks,Soda,53
+Soda&SoftDrinks,Sprite,37
+Soda&SoftDrinks,Sprite Zero,0
+Soda&SoftDrinks,Squirt,44
+Soda&SoftDrinks,Sunkist,25
+Soda&SoftDrinks,Surge,48
+Soda&SoftDrinks,TaB,0
+Soda&SoftDrinks,Tonic Water,35
+Soda&SoftDrinks,Vanilla Coke,45
+Wine,Cabernet Sauvignon,77
+Wine,Cava,76
+Wine,Champagne,76
+Wine,Chardonnay,85
+Wine,Chenin Blanc,80
+Wine,Chocolate Wine,256
+Wine,Dry Red Wine,85
+Wine,Gamay,78
+Wine,Malbec,82
+Wine,Malbec Wine,82
+Wine,Marsala Wine,100
+Wine,Merlot,83
+Wine,Merlot Wine,83
+Wine,Moscato Wine,76
+Wine,Mulled Wine,196
+Wine,Pinot Gris,83
+Wine,Pinot Noir,75
+Wine,Plum Wine,163
+Wine,Port Wine,160
+Wine,Prosecco,71
+Wine,Red Wine,85
+Wine,Red Wines,85
+Wine,Riesling,80
+Wine,Riesling Wine,80
+Wine,Rose Wine,71
+Wine,Sangria,132
+Wine,Sauvignon Blanc,81
+Wine,Sherry,116
+Wine,Shiraz,71
+Wine,Sparkling Wine,190
+Wine,Sweet Red Wine,81
+Wine,Sweet White Wine,82
+Wine,Sweet Wines,83
+Wine,Vermouth,108
+Wine,White Wine,82
+Wine,White Zinfandel,88
+Wine,Wine,83
+Wine,Yellow Tail Wine,71
+Wine,Zinfandel,88
+CerealProducts,Amaranth,371
+CerealProducts,Barley,354
+CerealProducts,Barley Groats,100
+CerealProducts,Brown Rice,388
+CerealProducts,Buckwheat,343
+CerealProducts,Buckwheat Groats,346
+CerealProducts,Corn Waffles,274
+CerealProducts,Cornmeal,362
+CerealProducts,Cornstarch,381
+CerealProducts,Couscous,376
+CerealProducts,Cracker,502
+CerealProducts,Durum Wheat Semolina,397
+CerealProducts,Flaxseed,534
+CerealProducts,Freekeh,520
+CerealProducts,Gluten,370
+CerealProducts,Grissini,408
+CerealProducts,Kamut,337
+CerealProducts,Millet,378
+CerealProducts,Millet Flour,372
+CerealProducts,Millet Gruel,46
+CerealProducts,Oat Bran,246
+CerealProducts,Pearl Barley,352
+CerealProducts,Polenta,366
+CerealProducts,Prawn Crackers,527
+CerealProducts,Pretzel Sticks,380
+CerealProducts,Quinoa,368
+CerealProducts,Rusk,410
+CerealProducts,Rye Bran,281
+CerealProducts,Sago,354
+CerealProducts,Savoury Biscuits,347
+CerealProducts,Shortbread,502
+CerealProducts,Spelt,338
+CerealProducts,Spelt Bran,177
+CerealProducts,Spelt Semolina,360
+CerealProducts,Sunflower Seeds,584
+CerealProducts,Tortilla,237
+CerealProducts,Tortilla Chips,499
+CerealProducts,Wheat Bran,216
+CerealProducts,Wheat Germ,382
+CerealProducts,Wheat Gluten,325
+CerealProducts,Wheat Semolina,360
+CerealProducts,Wheat Starch,351
+CerealProducts,Whole Grain Wheat,339
+CerealProducts,Wholegrain Oat,375
+"Oatmeal,Muesli&Cereals",Bran Flakes,356
+"Oatmeal,Muesli&Cereals",Cap’n Crunch,404
+"Oatmeal,Muesli&Cereals",Cheerios,347
+"Oatmeal,Muesli&Cereals",Chex,387
+"Oatmeal,Muesli&Cereals",Chocolate Cheerios,367
+"Oatmeal,Muesli&Cereals",Chocos,380
+"Oatmeal,Muesli&Cereals",Cinnamon Toast Crunch,433
+"Oatmeal,Muesli&Cereals",Coco Pops,376
+"Oatmeal,Muesli&Cereals",Cocoa Krispies,386
+"Oatmeal,Muesli&Cereals",Cocoa Pebbles,367
+"Oatmeal,Muesli&Cereals",Cocoa Puffs,400
+"Oatmeal,Muesli&Cereals",Cookie Crisp,400
+"Oatmeal,Muesli&Cereals",Corn Flakes,357
+"Oatmeal,Muesli&Cereals",Corn Pops,377
+"Oatmeal,Muesli&Cereals",Count Chocula,407
+"Oatmeal,Muesli&Cereals",Cracklin Oat Bran,402
+"Oatmeal,Muesli&Cereals",Cream of Wheat,364
+"Oatmeal,Muesli&Cereals",Crunchy Nut,600
+"Oatmeal,Muesli&Cereals",Crunchy Nut Cornflakes,600
+"Oatmeal,Muesli&Cereals",Fiber One,267
+"Oatmeal,Muesli&Cereals",Froot Loops,379
+"Oatmeal,Muesli&Cereals",Frosted Cheerios,393
+"Oatmeal,Muesli&Cereals",Frosted Flakes,367
+"Oatmeal,Muesli&Cereals",Frosted Mini-Wheats,353
+"Oatmeal,Muesli&Cereals",Frosties,367
+"Oatmeal,Muesli&Cereals",Fruity Pebbles,400
+"Oatmeal,Muesli&Cereals",Golden Grahams,400
+"Oatmeal,Muesli&Cereals",Grape-Nuts,362
+"Oatmeal,Muesli&Cereals",Honey Nut Cheerios,393
+"Oatmeal,Muesli&Cereals",Honey Smacks,370
+"Oatmeal,Muesli&Cereals",Honeycomb,397
+"Oatmeal,Muesli&Cereals",Just Right,391
+"Oatmeal,Muesli&Cereals",Kashi,377
+"Oatmeal,Muesli&Cereals",Kelloggs Corn Flakes,357
+"Oatmeal,Muesli&Cereals",Kix,367
+"Oatmeal,Muesli&Cereals",Krave,372
+"Oatmeal,Muesli&Cereals",Life Cereal,375
+"Oatmeal,Muesli&Cereals",Lucky Charms,406
+"Oatmeal,Muesli&Cereals",Malt-O-Meal,51
+"Oatmeal,Muesli&Cereals",Mini-Wheats,353
+"Oatmeal,Muesli&Cereals",Muesli,336
+"Oatmeal,Muesli&Cereals",Multigrain Cheerios,380
+"Oatmeal,Muesli&Cereals",Nutri-Grain,351
+"Oatmeal,Muesli&Cereals",Oatibix,421
+"Oatmeal,Muesli&Cereals",Oatmeal,375
+"Oatmeal,Muesli&Cereals",Peanut Butter Toast Crunch,431
+"Oatmeal,Muesli&Cereals",Post Raisin Bran,322
+"Oatmeal,Muesli&Cereals",Post Shredded Wheat,347
+"Oatmeal,Muesli&Cereals",Puff,367
+"Oatmeal,Muesli&Cereals",Puffed Rice,383
+"Oatmeal,Muesli&Cereals",Puffed Wheat,367
+"Oatmeal,Muesli&Cereals",Quaker Grits,344
+"Oatmeal,Muesli&Cereals",Quaker Oatmeal,375
+"Oatmeal,Muesli&Cereals",Quaker Oatmeal Squares,400
+"Oatmeal,Muesli&Cereals",Raisin Bran,322
+"Oatmeal,Muesli&Cereals",Raisin Bran Crunch,355
+"Oatmeal,Muesli&Cereals",Raisin Bran Crunch,355
+"Oatmeal,Muesli&Cereals",Raisin Nut Bran,367
+"Oatmeal,Muesli&Cereals",Ready Brek,359
+"Oatmeal,Muesli&Cereals",Rice Chex,387
+"Oatmeal,Muesli&Cereals",Rice Krispies,394
+"Oatmeal,Muesli&Cereals",Scooters,367
+"Oatmeal,Muesli&Cereals",Shredded Wheat,340
+"Oatmeal,Muesli&Cereals",Shreddies,351
+"Oatmeal,Muesli&Cereals",Smart Start,371
+"Oatmeal,Muesli&Cereals",Special K,377
+"Oatmeal,Muesli&Cereals",Special K Chocolatey Delight,388
+"Oatmeal,Muesli&Cereals",Special K Protein Plus,375
+"Oatmeal,Muesli&Cereals",Special K Red Berries,345
+"Oatmeal,Muesli&Cereals",Sugar Puffs,379
+"Oatmeal,Muesli&Cereals",Toasties,361
+"Oatmeal,Muesli&Cereals",Trix,400
+"Oatmeal,Muesli&Cereals",Weet-Bix,353
+"Oatmeal,Muesli&Cereals",Weetabix,358
+"Oatmeal,Muesli&Cereals",Weetos,378
+"Oatmeal,Muesli&Cereals",Wheaties,367
+Pasta&Noodles,Cannelloni,146
+Pasta&Noodles,Capellini,353
+Pasta&Noodles,Cappelletti,164
+Pasta&Noodles,Cellophane Noodles,351
+Pasta&Noodles,Cheese Tortellini,291
+Pasta&Noodles,Dampfnudel,274
+Pasta&Noodles,Dumpling Dough,99
+Pasta&Noodles,Durum Wheat Semolina,397
+Pasta&Noodles,Egg Noodles,384
+Pasta&Noodles,Farfalle,358
+Pasta&Noodles,Fettuccine,353
+Pasta&Noodles,Fusilli,352
+Pasta&Noodles,Glass Noodles,192
+Pasta&Noodles,Lasagne Sheets,271
+Pasta&Noodles,Linguine,357
+Pasta&Noodles,Low Carb Pasta,282
+Pasta&Noodles,Macaroni,370
+Pasta&Noodles,Manicotti,357
+Pasta&Noodles,Mostaccioli,184
+Pasta&Noodles,Orecchiette,370
+Pasta&Noodles,Orzo,357
+Pasta&Noodles,Penne,351
+Pasta&Noodles,Penne Rigate,370
+Pasta&Noodles,Pierogi,200
+Pasta&Noodles,Ravioli,77
+Pasta&Noodles,Rigatoni,353
+Pasta&Noodles,Rotini,353
+Pasta&Noodles,Shells,353
+Pasta&Noodles,Shirataki Noodles,18
+Pasta&Noodles,Soy Noodles,216
+Pasta&Noodles,Spaetzle,368
+Pasta&Noodles,Spaghetti,370
+Pasta&Noodles,Spinach Tortellini,314
+Pasta&Noodles,Spirelli,367
+Pasta&Noodles,Tagliatelle,370
+Pasta&Noodles,Tortellini,291
+Pasta&Noodles,Vermicelli,368
+Pasta&Noodles,Whole Grain Noodles,347
+Pasta&Noodles,Whole Grain Spaghetti,351
+Pasta&Noodles,Ziti,352
+Dishes&Meals,Baby Back Ribs,259
+Dishes&Meals,Bacon and Eggs,252
+Dishes&Meals,Baked Beans,94
+Dishes&Meals,Baked Chicken,164
+Dishes&Meals,BBQ Ribs,255
+Dishes&Meals,Beef Stew,95
+Dishes&Meals,Biryani,176
+Dishes&Meals,Black Pudding,253
+Dishes&Meals,Black Rice,323
+Dishes&Meals,BLT,247
+Dishes&Meals,Brown Rice,362
+Dishes&Meals,Burrito,163
+Dishes&Meals,Butter Chicken,140
+Dishes&Meals,California Roll,93
+Dishes&Meals,Chicken Caesar Salad,127
+Dishes&Meals,Chicken Fried Steak,151
+Dishes&Meals,Chicken Marsala,96
+Dishes&Meals,Chicken Parmesan,110
+Dishes&Meals,Chicken Pot Pie,223
+Dishes&Meals,Chicken Tikka Masala,81
+Dishes&Meals,Chili con Carne,105
+Dishes&Meals,Chimichanga,232
+Dishes&Meals,Cobb Salad,118
+Dishes&Meals,Collard Greens,28
+Dishes&Meals,Corn Dog,250
+Dishes&Meals,Corned Beef Hash,164
+Dishes&Meals,Cottage Pie,139
+Dishes&Meals,Dal,330
+Dishes&Meals,Deviled Eggs,201
+Dishes&Meals,Dim Sum,193
+Dishes&Meals,Dosa,66
+Dishes&Meals,Enchiladas,168
+Dishes&Meals,Fajita,117
+Dishes&Meals,Fish and Chips,195
+Dishes&Meals,Fried Rice,186
+Dishes&Meals,Fried Shrimp,277
+Dishes&Meals,Grilled Cheese Sandwich,288
+Dishes&Meals,Ham and Cheese Sandwich,241
+Dishes&Meals,Hummus,177
+Dishes&Meals,Jambalaya,100
+Dishes&Meals,Kebab,215
+Dishes&Meals,Lasagne,132
+Dishes&Meals,Mac and Cheese,370
+Dishes&Meals,Macaroni and Cheese,370
+Dishes&Meals,Mashed Potatoes,83
+Dishes&Meals,Meat Pie,242
+Dishes&Meals,Meatloaf,254
+Dishes&Meals,Naan,310
+Dishes&Meals,Orange Chicken,259
+Dishes&Meals,Pad Thai,150
+Dishes&Meals,Paella,156
+Dishes&Meals,Paratha,325
+Dishes&Meals,Pea Soup,75
+Dishes&Meals,Peanut Butter Sandwich,408
+Dishes&Meals,Peking Duck,225
+Dishes&Meals,Philly Cheese Steak,250
+Dishes&Meals,Pizza,267
+Dishes&Meals,Pork Chop,225
+Dishes&Meals,Potato Salad,143
+Dishes&Meals,Pulled Pork Sandwich,211
+Dishes&Meals,Ramen,447
+Dishes&Meals,Ravioli,203
+Dishes&Meals,Reuben Sandwich,208
+Dishes&Meals,Roast Beef,111
+Dishes&Meals,Roast Dinner,198
+Dishes&Meals,Samosa,214
+Dishes&Meals,Sausage Roll,350
+Dishes&Meals,Sausage Rolls,297
+Dishes&Meals,Shepherds Pie,70
+Dishes&Meals,Shrimp Cocktail,464
+Dishes&Meals,Sloppy Joe,71
+Dishes&Meals,Sloppy Joes,154
+Dishes&Meals,Spaghetti Bolognese,132
+Dishes&Meals,Spring Roll,250
+Dishes&Meals,Spring Rolls,250
+Dishes&Meals,Taco,217
+Dishes&Meals,Tandoori Chicken,113
+Dishes&Meals,Yorkshire Pudding,553
+Soups,Alphabet Soup,25
+Soups,Bean Stew,133
+Soups,Beef Bouillon,3
+Soups,Beef Noodle Soup,34
+Soups,Beef Soup,33
+Soups,Bouillon,16
+Soups,Broccoli Cheese Soup,87
+Soups,Broccoli Soup,87
+Soups,Cabbage Soup,28
+Soups,Carrot Ginger Soup,25
+Soups,Carrot Soup,25
+Soups,Chicken Bouillon,4
+Soups,Chicken Broth,16
+Soups,Chicken Gumbo Soup,23
+Soups,Chicken Noodle Soup,25
+Soups,Chicken Stock,16
+Soups,Chicken Vegetable Soup,31
+Soups,Chicken with Rice Soup,24
+Soups,Cream of Asparagus Soup,35
+Soups,Cream of Broccoli Soup,45
+Soups,Cream of Celery Soup,37
+Soups,Cream of Chicken Soup,48
+Soups,Cream of Mushroom Soup,39
+Soups,Cream of Onion Soup,44
+Soups,Cream of Potato Soup,30
+Soups,Creamy Chicken Noodle Soup,23
+Soups,French Onion Soup,23
+Soups,Golden Mushroom Soup,65
+Soups,Goulash,1009
+Soups,Instant Ramen,436
+Soups,Lentil Soup,56
+Soups,Lobster Bisque Soup,100
+Soups,Meatball Soup,49
+Soups,Minestrone,34
+Soups,Mushroom Soup,35
+Soups,Noodle Soup,34
+Soups,Onion Soup,23
+Soups,Oxtail Soup,28
+Soups,Pea Soup,75
+Soups,Potato Soup,80
+Soups,Pumpkin Soup,29
+Soups,Ramen,436
+Soups,Scotch Broth,33
+Soups,Succotash,115
+Soups,Thai Soup,60
+Soups,Tomato Rice Soup,47
+Soups,Tomato Soup,30
+Soups,Vegetable Beef Soup,31
+Soups,Vegetable Broth,5
+Soups,Vegetable Soup,28
+Soups,Vegetable Stock,5
+Soups,Wedding Soup,53
+Legumes,Azuki Bean,124
+Legumes,Bamboo Shoots,27
+Legumes,Bean Curd,76
+Legumes,Bean Sprouts,30
+Legumes,Bengal Gram,364
+Legumes,Black Beans,341
+Legumes,Black Chickpeas,364
+Legumes,Black Gram,341
+Legumes,Brown Lentil,353
+Legumes,Butternut,612
+Legumes,Chickpeas,364
+Legumes,Chili Bean,97
+Legumes,Dal,230
+Legumes,Deep-Fried Tofu,271
+Legumes,Extra-Firm Tofu,91
+Legumes,Firm Tofu,70
+Legumes,Flageolet,85
+Legumes,Fried Bean Curd,271
+Legumes,Green Beans,31
+Legumes,Green Gram,347
+Legumes,Green Lentil,257
+Legumes,Kidney Beans,337
+Legumes,Lentils,353
+Legumes,Lima Beans,71
+Legumes,Marron,210
+Legumes,Miso,199
+Legumes,Mung Beans,12
+Legumes,Natto,212
+Legumes,Navy Bean,337
+Legumes,Okara,77
+Legumes,Okra,33
+Legumes,Peanuts,567
+Legumes,Peas,42
+Legumes,Pecan,691
+Legumes,Pinto Beans,347
+Legumes,Puy Lentils,345
+Legumes,Rajma,140
+Legumes,Red Beans,124
+Legumes,Red Kidney Bean,337
+Legumes,Red Lentils,329
+Legumes,Refried Beans,91
+Legumes,Roasted Soybeans,471
+Legumes,Silken Tofu,55
+Legumes,Soft Tofu,61
+Legumes,Soy Cheese,235
+Legumes,Soy Mayonnaise,322
+Legumes,Soy Nut Butter,562
+Legumes,Soy Nuts,471
+Legumes,Soy Yogurt,66
+Legumes,Soya Cheese,235
+Legumes,Soybeans,147
+Legumes,Soynut Butter,562
+Legumes,Sugar Peas,42
+Legumes,Sweet Peas,48
+Legumes,Tempeh,193
+Legumes,Textured Soy Protein,571
+Legumes,Textured Vegetable Protein,333
+Legumes,Tofu,76
+Legumes,White Beans,336
+Legumes,Yam Bean,38
+Legumes,Yellow Lentils,304
+Legumes,Yuba,176
+Nuts&Seeds,Acorn,387
+Nuts&Seeds,Alfalfa Sprouts,23
+Nuts&Seeds,Almonds,575
+Nuts&Seeds,Beechnut,576
+Nuts&Seeds,Brazil Nuts,656
+Nuts&Seeds,Breadfruit,191
+Nuts&Seeds,Butternut,612
+Nuts&Seeds,Cashew,553
+Nuts&Seeds,Chestnut,213
+Nuts&Seeds,Chia Seeds,486
+Nuts&Seeds,Coconut,354
+Nuts&Seeds,Cotton Seeds,506
+Nuts&Seeds,Flaxseed,534
+Nuts&Seeds,Ginkgo Nuts,182
+Nuts&Seeds,Goa Bean,409
+Nuts&Seeds,Hazelnut,628
+Nuts&Seeds,Hickory Nuts,657
+Nuts&Seeds,Lima Beans,71
+Nuts&Seeds,Lotus Seed,89
+Nuts&Seeds,Macadamia Nuts,718
+Nuts&Seeds,Peanuts,567
+Nuts&Seeds,Peas,81
+Nuts&Seeds,Pecan Nuts,691
+Nuts&Seeds,Pecans,691
+Nuts&Seeds,Pili Nuts,719
+Nuts&Seeds,Pine Nuts,673
+Nuts&Seeds,Pinto Beans,347
+Nuts&Seeds,Pistachios,562
+Nuts&Seeds,Poppy Seeds,525
+Nuts&Seeds,Pumpkin Seeds,559
+Nuts&Seeds,Radish Seeds,43
+Nuts&Seeds,Safflower Seeds,517
+Nuts&Seeds,Sesame Seeds,573
+Nuts&Seeds,Smoked Almonds,575
+Nuts&Seeds,Soy Beans,147
+Nuts&Seeds,Sunflower Seeds,584
+Nuts&Seeds,Sweet Chestnut,194
+Nuts&Seeds,Walnuts,654
+Nuts&Seeds,Watermelon,30
+Oils&Fats,Almond Oil,882
+Oils&Fats,Avocado Oil,857
+Oils&Fats,Butter,720
+Oils&Fats,Canola Oil,884
+Oils&Fats,Coconut Oil,857
+Oils&Fats,Cod Liver Oil,1000
+Oils&Fats,Corn Oil,800
+Oils&Fats,Cottonseed Oil,882
+Oils&Fats,Flaxseed Oil,884
+Oils&Fats,Ghee,120
+Oils&Fats,Goose Fat,898
+Oils&Fats,Grape Seed Oil,884
+Oils&Fats,Hemp Oil,807
+Oils&Fats,Herring Oil,902
+Oils&Fats,I can\’t believe it\’s not Butter,357
+Oils&Fats,Lard,902
+Oils&Fats,Macadamia Oil,819
+Oils&Fats,Margarine,717
+Oils&Fats,Mustard Oil,884
+Oils&Fats,Olive Oil,884
+Oils&Fats,Palm Oil,882
+Oils&Fats,Peanut Oil,857
+Oils&Fats,Real Butter,720
+Oils&Fats,Rice Bran Oil,889
+Oils&Fats,Safflower Oil,857
+Oils&Fats,Sardine Oil,902
+Oils&Fats,Sesame Oil,884
+Oils&Fats,Soybean Oil,889
+Oils&Fats,Sunflower Oil,884
+Oils&Fats,Walnut Oil,889
+VegetableOils,Almond Oil,882
+VegetableOils,Apricot Kernel Oil,889
+VegetableOils,Argan Oil,896
+VegetableOils,Avocado Oil,857
+VegetableOils,Babassu Oil,884
+VegetableOils,Canola Oil,884
+VegetableOils,Coconut Oil,857
+VegetableOils,Corn Oil,800
+VegetableOils,Cottonseed Oil,882
+VegetableOils,Flaxseed Oil,884
+VegetableOils,Grape Seed Oil,884
+VegetableOils,Hazelnut Oil,889
+VegetableOils,Linseed Oil,837
+VegetableOils,Menhaden Oil,911
+VegetableOils,Mustard Oil,884
+VegetableOils,Oat Oil,884
+VegetableOils,Olive Oil,800
+VegetableOils,Palm Kernel Oil,882
+VegetableOils,Palm Oil,882
+VegetableOils,Peanut Oil,857
+VegetableOils,Poppy Seed Oil,884
+VegetableOils,Pumpkin Seed Oil,880
+VegetableOils,Rice Bran Oil,889
+VegetableOils,Safflower Oil,857
+VegetableOils,Salmon Oil,911
+VegetableOils,Sesame Oil,889
+VegetableOils,Shea Oil,884
+VegetableOils,Soy Oil,882
+VegetableOils,Sunflower Oil,884
+VegetableOils,Tomato Seed Oil,884
+VegetableOils,Vegetable Oil,800
+VegetableOils,Walnut Oil,889
+VegetableOils,Wheat Germ Oil,929
+BakingIngredients,Agar-Agar,26
+BakingIngredients,Agave Syrup,310
+BakingIngredients,All Purpose Flour,364
+BakingIngredients,Almond Extract,258
+BakingIngredients,Almonds,529
+BakingIngredients,Apple Pie Filling,100
+BakingIngredients,Baking Powder,53
+BakingIngredients,Baking Soda,0
+BakingIngredients,Bread Flour,361
+BakingIngredients,Brittle,592
+BakingIngredients,Brown Sugar,395
+BakingIngredients,Buttermilk,62
+BakingIngredients,Butterscotch Chips,539
+BakingIngredients,Cake Flour,362
+BakingIngredients,Candied Orange Peel,97
+BakingIngredients,Cane Sugar,387
+BakingIngredients,Chocolate Chips,467
+BakingIngredients,Chocolate Sprinkles,500
+BakingIngredients,Cocoa Powder,228
+BakingIngredients,Coconut Flakes,456
+BakingIngredients,Coconut Milk,50
+BakingIngredients,Corn Flour,361
+BakingIngredients,Corn Syrup,281
+BakingIngredients,Cornmeal,362
+BakingIngredients,Cornstarch,381
+BakingIngredients,Couverture,600
+BakingIngredients,Cream Cheese,54
+BakingIngredients,Cream of Tartar,258
+BakingIngredients,Crystallized Ginger,335
+BakingIngredients,Custard Powder,337
+BakingIngredients,Dark Rum,216
+BakingIngredients,Dextrose,375
+BakingIngredients,Dried Apricots,241
+BakingIngredients,Dried Cranberries,308
+BakingIngredients,Dried Figs,249
+BakingIngredients,Dried Prunes,107
+BakingIngredients,Duck Egg,185
+BakingIngredients,Egg,97
+BakingIngredients,Egg Nog,88
+BakingIngredients,Egg White,13
+BakingIngredients,Egg Yolk,322
+BakingIngredients,Evaporated Milk,134
+BakingIngredients,Flour,364
+BakingIngredients,Fructose,368
+BakingIngredients,Gelatin,335
+BakingIngredients,Glucose,286
+BakingIngredients,Glucose Syrup,387
+BakingIngredients,Granulated Sugar,387
+BakingIngredients,Ground Cinnamon,247
+BakingIngredients,Hazelnuts,628
+BakingIngredients,Heavy Cream,345
+BakingIngredients,Jaggery,383
+BakingIngredients,Lemon Pie Filling,143
+BakingIngredients,Malt Powder,361
+BakingIngredients,Malted Milk,405
+BakingIngredients,Maltitol,210
+BakingIngredients,Maltodextrin,375
+BakingIngredients,Maltose,344
+BakingIngredients,Maple Syrup,270
+BakingIngredients,Molasses,290
+BakingIngredients,Nonpareils,475
+BakingIngredients,Peppermint Extract,0
+BakingIngredients,Poppy Seeds,525
+BakingIngredients,Powdered Milk,496
+BakingIngredients,Powdered Sugar,389
+BakingIngredients,Protein Powder,411
+BakingIngredients,Raisins,474
+BakingIngredients,Rice Milk,49
+BakingIngredients,Rock Sugar,625
+BakingIngredients,Rolled Oats,384
+BakingIngredients,Rum,246
+BakingIngredients,Semolina Flour,350
+BakingIngredients,Sesame Seeds,573
+BakingIngredients,Shredded Coconut,501
+BakingIngredients,Sorbitol,375
+BakingIngredients,Soy Milk,41
+BakingIngredients,Soy Protein Powder,338
+BakingIngredients,Sprinkles,500
+BakingIngredients,Starch,381
+BakingIngredients,Strawberry Preserves,278
+BakingIngredients,Sucrose,387
+BakingIngredients,Sugar,405
+BakingIngredients,Sunflower Seeds,117
+BakingIngredients,Sweetened Condensed Milk,321
+BakingIngredients,Sweetener,360
+BakingIngredients,Unsalted Butter,717
+BakingIngredients,Vanilla Extract,288
+BakingIngredients,Vanilla Sugar,357
+BakingIngredients,Vegetable Oil,884
+BakingIngredients,Vegetable Shortening,884
+BakingIngredients,Walnuts,131
+BakingIngredients,Whole Milk,61
+BakingIngredients,Whole Wheat Flour,340
+BakingIngredients,Xylitol,240
+BakingIngredients,Yeast (dry),325
+Fish&Seafood,Anchovy,131
+Fish&Seafood,Bluefish,159
+Fish&Seafood,Bream,135
+Fish&Seafood,Butterfish,187
+Fish&Seafood,Calamari,175
+Fish&Seafood,Carp,162
+Fish&Seafood,Caviar,264
+Fish&Seafood,Clam,148
+Fish&Seafood,Cod,105
+Fish&Seafood,Crawfish,82
+Fish&Seafood,Crayfish,87
+Fish&Seafood,Eel,236
+Fish&Seafood,Fish Fingers,290
+Fish&Seafood,Fish Sticks,290
+Fish&Seafood,Flounder,86
+Fish&Seafood,Grouper,118
+Fish&Seafood,Haddock,90
+Fish&Seafood,Hake,71
+Fish&Seafood,Halibut,111
+Fish&Seafood,Herring,203
+Fish&Seafood,Hoki,121
+Fish&Seafood,Kipper,217
+Fish&Seafood,Ling,109
+Fish&Seafood,Lobster,89
+Fish&Seafood,Mackerel,262
+Fish&Seafood,Milkfish,190
+Fish&Seafood,Monkfish,97
+Fish&Seafood,Mullet,150
+Fish&Seafood,Mussel,172
+Fish&Seafood,Octopus,164
+Fish&Seafood,Pickerel,111
+Fish&Seafood,Pickled Herring,262
+Fish&Seafood,Pike,113
+Fish&Seafood,Plaice,91
+Fish&Seafood,Pollack,111
+Fish&Seafood,Red Snapper,128
+Fish&Seafood,Redfish,94
+Fish&Seafood,Rollmops,171
+Fish&Seafood,Salmon,206
+Fish&Seafood,Sardines,208
+Fish&Seafood,Scallops,111
+Fish&Seafood,Scampi,84
+Fish&Seafood,Sea Bass,124
+Fish&Seafood,Shad,252
+Fish&Seafood,Shark,130
+Fish&Seafood,Smelt,124
+Fish&Seafood,Sole,86
+Fish&Seafood,Squid,92
+Fish&Seafood,Sturgeon,135
+Fish&Seafood,Sushi,150
+Fish&Seafood,Swordfish,172
+Fish&Seafood,Triggerfish,93
+Fish&Seafood,Trout,190
+Fish&Seafood,Tuna,132
+Fish&Seafood,Tuna Salad,187
+Fish&Seafood,Turbot,122
+Fish&Seafood,Wahoo,167
+Fish&Seafood,Whitefish,172
+Fish&Seafood,Whiting,116
+Fish&Seafood,Zander,84
+Herbs&Spices,Almond Extract,374
+Herbs&Spices,Anise,337
+Herbs&Spices,Anise Seed,337
+Herbs&Spices,Arrowroot,65
+Herbs&Spices,Arugula,25
+Herbs&Spices,Balsamic Vinegar,88
+Herbs&Spices,Basil,233
+Herbs&Spices,Black Pepper,251
+Herbs&Spices,Black Sesame Seeds,573
+Herbs&Spices,Broth,100
+Herbs&Spices,Capers,23
+Herbs&Spices,Caraway Seeds,333
+Herbs&Spices,Cardamom,311
+Herbs&Spices,Cassava,160
+Herbs&Spices,Cayenne Pepper,318
+Herbs&Spices,Chard,19
+Herbs&Spices,Chicory Greens,23
+Herbs&Spices,Chicory Roots,72
+Herbs&Spices,Chili,282
+Herbs&Spices,Chili Powder,282
+Herbs&Spices,Chives,30
+Herbs&Spices,Cider Vinegar,21
+Herbs&Spices,Cilantro,23
+Herbs&Spices,Cinnamon,247
+Herbs&Spices,Cloves,274
+Herbs&Spices,Coriander,23
+Herbs&Spices,Cream of Tartar,258
+Herbs&Spices,Cress,32
+Herbs&Spices,Crystallized Ginger,335
+Herbs&Spices,Cumin,375
+Herbs&Spices,Cumin Seed,375
+Herbs&Spices,Curry,325
+Herbs&Spices,Dandelion,45
+Herbs&Spices,Dill,43
+Herbs&Spices,Dill Weed,43
+Herbs&Spices,Fennel,31
+Herbs&Spices,Fennel Seed,345
+Herbs&Spices,Fenugreek,323
+Herbs&Spices,Garlic,149
+Herbs&Spices,Garlic Powder,331
+Herbs&Spices,Garlic Salt,0
+Herbs&Spices,Ginger,80
+Herbs&Spices,Grape Leaves,93
+Herbs&Spices,Ground Ginger,335
+Herbs&Spices,Horseradish,48
+Herbs&Spices,Hot Pepper,318
+Herbs&Spices,Iodized Salt,0
+Herbs&Spices,Jalapeno,13
+Herbs&Spices,Juniper,45
+Herbs&Spices,Lemon Grass,99
+Herbs&Spices,Licorice,375
+Herbs&Spices,Maggi,104
+Herbs&Spices,Marjoram,271
+Herbs&Spices,Minced Onion,40
+Herbs&Spices,Mint,70
+Herbs&Spices,Mustard Seed,508
+Herbs&Spices,Nutmeg,525
+Herbs&Spices,Okra,33
+Herbs&Spices,Onion,40
+Herbs&Spices,Onion Powder,341
+Herbs&Spices,Orange Peel,97
+Herbs&Spices,Oregano,265
+Herbs&Spices,Paprika,282
+Herbs&Spices,Parsley,36
+Herbs&Spices,Parsnip,75
+Herbs&Spices,Pepper,251
+Herbs&Spices,Poppy Seed,525
+Herbs&Spices,Poultry Seasoning,307
+Herbs&Spices,Pumpkin Pie Spice,342
+Herbs&Spices,Red Pepper,251
+Herbs&Spices,Red Wine Vinegar,19
+Herbs&Spices,Rosemary,131
+Herbs&Spices,Saffron,310
+Herbs&Spices,Sage,315
+Herbs&Spices,Salt,0
+Herbs&Spices,Savory,272
+Herbs&Spices,Sea Salt,0
+Herbs&Spices,Serrano Pepper,32
+Herbs&Spices,Sesame Seeds,573
+Herbs&Spices,Stevia,0
+Herbs&Spices,Tamarind,239
+Herbs&Spices,Taro,112
+Herbs&Spices,Tarragon,295
+Herbs&Spices,Thyme,276
+Herbs&Spices,Turmeric,354
+Herbs&Spices,Vanilla Bean,250
+Herbs&Spices,Vanilla Extract,288
+Herbs&Spices,Vinegar,18
+Herbs&Spices,White Pepper,296
+Herbs&Spices,Yam,118
+"Pastries,Breads&Rolls",Apple Pie,237
+"Pastries,Breads&Rolls",Apple Turnover,348
+"Pastries,Breads&Rolls",Bagel,257
+"Pastries,Breads&Rolls",Baguette,274
+"Pastries,Breads&Rolls",Banana Bread,326
+"Pastries,Breads&Rolls",Banana Nut Bread,326
+"Pastries,Breads&Rolls",Beer Bread,227
+"Pastries,Breads&Rolls",Biscuit,269
+"Pastries,Breads&Rolls",Black Bread,250
+"Pastries,Breads&Rolls",Bran Muffins,270
+"Pastries,Breads&Rolls",Bread Pudding,153
+"Pastries,Breads&Rolls",Breadsticks,400
+"Pastries,Breads&Rolls",Brioche,346
+"Pastries,Breads&Rolls",Brown Bread,246
+"Pastries,Breads&Rolls",Brownies,405
+"Pastries,Breads&Rolls",Bun,316
+"Pastries,Breads&Rolls",Cannoli,254
+"Pastries,Breads&Rolls",Caramel Cake,385
+"Pastries,Breads&Rolls",Challah,283
+"Pastries,Breads&Rolls",Chapati,240
+"Pastries,Breads&Rolls",Ciabatta,271
+"Pastries,Breads&Rolls",Cinnamon Bun,436
+"Pastries,Breads&Rolls",Coffee Cake,418
+"Pastries,Breads&Rolls",Conchas/Mexican Sweet Bread,353
+"Pastries,Breads&Rolls",Cornbread,179
+"Pastries,Breads&Rolls",Crepes,224
+"Pastries,Breads&Rolls",Croissant,406
+"Pastries,Breads&Rolls",Crumpet,178
+"Pastries,Breads&Rolls",Cupcakes,305
+"Pastries,Breads&Rolls",Donut/Doughnut,421
+"Pastries,Breads&Rolls",Dosa,209
+"Pastries,Breads&Rolls",Empanada,335
+"Pastries,Breads&Rolls",English Muffin,227
+"Pastries,Breads&Rolls",Flatbread,311
+"Pastries,Breads&Rolls",Focaccia,249
+"Pastries,Breads&Rolls",Garlic Bread,350
+"Pastries,Breads&Rolls",Hot Dog Buns,279
+"Pastries,Breads&Rolls",Italian Bread,271
+"Pastries,Breads&Rolls",Latkes,189
+"Pastries,Breads&Rolls",Matzo Bread,351
+"Pastries,Breads&Rolls",Monkey Bread,290
+"Pastries,Breads&Rolls",Muffin,296
+"Pastries,Breads&Rolls",Multi-Grain Bread,265
+"Pastries,Breads&Rolls",Naan,275
+"Pastries,Breads&Rolls",Oatmeal Cookies,450
+"Pastries,Breads&Rolls",Oatmeal Raisin Cookies,435
+"Pastries,Breads&Rolls",Pan de Sal,293
+"Pastries,Breads&Rolls",Pancake,233
+"Pastries,Breads&Rolls",Pandesal,293
+"Pastries,Breads&Rolls",Panettone,318
+"Pastries,Breads&Rolls",Pide,268
+"Pastries,Breads&Rolls",Pie,237
+"Pastries,Breads&Rolls",Pita Bread,275
+"Pastries,Breads&Rolls",Potato Bread,266
+"Pastries,Breads&Rolls",Pretzel,338
+"Pastries,Breads&Rolls",Pretzel Roll,338
+"Pastries,Breads&Rolls",Puff Pastry,558
+"Pastries,Breads&Rolls",Pumpernickel,250
+"Pastries,Breads&Rolls",Raisin Bread,274
+"Pastries,Breads&Rolls",Roll,316
+"Pastries,Breads&Rolls",Roti,264
+"Pastries,Breads&Rolls",Rye Bread,259
+"Pastries,Breads&Rolls",Sandwich,304
+"Pastries,Breads&Rolls",Sandwich Bread,251
+"Pastries,Breads&Rolls",Scone,362
+"Pastries,Breads&Rolls",Shortcrust Pastry,544
+"Pastries,Breads&Rolls",Soda Bread,290
+"Pastries,Breads&Rolls",Soufflé,204
+"Pastries,Breads&Rolls",Sourdough Bread,289
+"Pastries,Breads&Rolls",Spanakopita,246
+"Pastries,Breads&Rolls",Spice Cake,332
+"Pastries,Breads&Rolls",Sweet Rolls,333
+"Pastries,Breads&Rolls",Swiss Roll,313
+"Pastries,Breads&Rolls",Toast,261
+"Pastries,Breads&Rolls",Tortilla,297
+"Pastries,Breads&Rolls",Tortilla Bread,265
+"Pastries,Breads&Rolls",White Bread,238
+"Pastries,Breads&Rolls",Whole Wheat Bread,247
+Sauces&Dressings,1000 Island Dressing,370
+Sauces&Dressings,Ajvar,18
+Sauces&Dressings,Arrabiata Sauce,36
+Sauces&Dressings,Balsamic Vinaigrette Dressing,290
+Sauces&Dressings,Barbecue Sauce,150
+Sauces&Dressings,Bechamel Sauce,225
+Sauces&Dressings,Bernaise Sauce,414
+Sauces&Dressings,Blue Cheese Dressing,533
+Sauces&Dressings,Bolognese,106
+Sauces&Dressings,Buttermilk Ranch Dressing,533
+Sauces&Dressings,Caesar Dressing,429
+Sauces&Dressings,Catalina Dressing,282
+Sauces&Dressings,Chasseur Sauce,45
+Sauces&Dressings,Chili Sauce,112
+Sauces&Dressings,Cream Sauce,180
+Sauces&Dressings,Curry Ketchup,124
+Sauces&Dressings,Curry Sauce,26
+Sauces&Dressings,French Dressing,60
+Sauces&Dressings,Gravy,53
+Sauces&Dressings,Greek Dressing,467
+Sauces&Dressings,Hamburger Sauce,383
+Sauces&Dressings,Harissa,52
+Sauces&Dressings,Hollandaise Sauce,535
+Sauces&Dressings,Honey Mustard Dressing,464
+Sauces&Dressings,Horseradish,48
+Sauces&Dressings,Italian Dressing,293
+Sauces&Dressings,Ketchup,100
+Sauces&Dressings,Mayonnaise,692
+Sauces&Dressings,Mustard,60
+Sauces&Dressings,Mustard Sauce,645
+Sauces&Dressings,Orange Sauce,179
+Sauces&Dressings,Pesto,458
+Sauces&Dressings,Ranch Dressing,510
+Sauces&Dressings,Remoulade Sauce,635
+Sauces&Dressings,Russian Dressing,400
+Sauces&Dressings,Salad Dressing,449
+Sauces&Dressings,Sambal Oelek,21
+Sauces&Dressings,Sesame Ginger Dressing,464
+Sauces&Dressings,Sesame Paste,595
+Sauces&Dressings,Sour Cream,217
+Sauces&Dressings,Sour Cream Sauce,60
+Sauces&Dressings,Soy Sauce,67
+Sauces&Dressings,Sweet and Sour Sauce,179
+Sauces&Dressings,Tabasco,70
+Sauces&Dressings,Teriyaki Sauce,89
+Sauces&Dressings,Thai Curry Paste,155
+Sauces&Dressings,Tomato Paste,82
+Sauces&Dressings,Tomato Puree,38
+Sauces&Dressings,Tomato Sauce,24
+Sauces&Dressings,Tzatziki,94
+Sauces&Dressings,Vinaigrette,120
+Sauces&Dressings,Worcestershire Sauce,78
+Sauces&Dressings,Yogurt Dressing,45
+Sauces&Dressings,Zesty Italian Dressing,267
+Spreads,Almond Butter,614
+Spreads,Apple Butter,173
+Spreads,Applesauce,68
+Spreads,Apricot Jam,250
+Spreads,Blackberry Jam,250
+Spreads,Blackcurrant Jam,250
+Spreads,Blueberry Jam,250
+Spreads,Cheese Spread,290
+Spreads,Cherry Jam,250
+Spreads,Chocolate Philadelphia,287
+Spreads,Chocolate Spread,541
+Spreads,Cream Cheese,342
+Spreads,Egg,97
+Spreads,Grape Jelly,255
+Spreads,Honey,304
+Spreads,Jelly,278
+Spreads,Jif Peanut Butter,580
+Spreads,Liverwurst,305
+Spreads,Margarine,717
+Spreads,Marmite,225
+Spreads,Marshmallow Fluff,666
+Spreads,Nutella,544
+Spreads,Olive Spread,550
+Spreads,"Pâté (720), Pate",319
+Spreads,Peanut Butter,589
+Spreads,Peter Pan Peanut Butter,609
+Spreads,Philadelphia Cream Cheese,342
+Spreads,Plum Jam,250
+Spreads,Salted Butter,717
+Spreads,Skippy Peanut Butter,594
+Spreads,Smuckers Strawberry Jam,250
+Spreads,Strawberry Jam,250
+Spreads,Strawberry Jelly,250
+Spreads,Sunbutter,617
+Spreads,Sunflower Butter,617
+Spreads,Tapenade,233
+Spreads,Unsalted Butter,717
+Spreads,Vegemite,180
+Spreads,Wild Honey,286

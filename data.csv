@@ -1,0 +1,277 @@
+﻿date,time,food item,food cat,cal
+2022-10-1,08:00,Mascarpone,CreamCheese,450
+2022-10-2,08:00,Goulash,Soups,1009
+2022-10-3,08:00,Beer,AlcoholicDrinks&Beverages,43
+2022-10-4,08:00,Curry Sauce,Sauces&Dressings,26
+2022-10-5,08:00,All-blue Potatoes,PotatoProducts,61
+2022-10-6,08:00,Iced Tea,Non-AlcoholicDrinks&Beverages,27
+2022-10-7,08:00,Bud Select 55,Beer,15
+2022-10-8,08:00,Gourd,Vegetables,14
+2022-10-9,08:00,Hot Pepper,Herbs&Spices,318
+2022-10-10,08:00,BLT,Dishes&Meals,247
+2022-10-11,08:00,Mint Chocolate Chip Ice Cream,IceCream,239
+2022-10-12,08:00,Canned Pears,CannedFruit,35
+2022-10-13,08:00,Mustard Oil,Oils&Fats,884
+2022-10-14,08:00,Kumara,Vegetables,86
+2022-10-15,08:00,Leerdammer,SlicedCheese,284
+2022-10-16,08:00,Mozzarella Pizza,Pizza,249
+2022-10-17,08:00,Russian Dressing ml,Sauces&Dressings,400
+2022-10-18,08:00,Cocoa Pebbles,"Oatmeal,Muesli&Cereals",367
+2022-10-19,08:00,Ground Pork,Pork,263
+2022-10-20,08:00,California Roll,Dishes&Meals,93
+2022-10-21,08:00,Mike and Ike,Candy&Sweets,360
+2022-10-22,08:00,Panettone,Cakes&Pies,360
+2022-10-23,08:00,California Roll,Dishes&Meals,93
+2022-10-24,08:00,Bratwurst,FastFood,333
+2022-10-25,08:00,Cannelloni,Pasta&Noodles,146
+2022-10-26,08:00,Okra,Vegetables,33
+2022-10-27,08:00,Tzatziki,Milk&DairyProducts,117
+2022-10-28,08:00,Baked Potato,PotatoProducts,93
+2022-10-29,08:00,Vanilla Bean,Herbs&Spices,250
+2022-10-30,08:00,Peppermint bark,Candy&Sweets,500
+2022-10-31,08:00,Dried Cranberries,BakingIngredients,308
+2022-11-1,08:00,Chitterlings,Offal&Giblets,233
+2022-11-2,08:00,Soy Noodles,Pasta&Noodles,216
+2022-11-3,08:00,Strawberry Jelly,Spreads,250
+2022-11-4,08:00,Beef,Beef&Veal,171
+2022-11-5,08:00,Orange Chicken,Dishes&Meals,259
+2022-11-6,08:00,Merlot,Wine,83
+2022-11-7,08:00,Beef,Beef&Veal,171
+2022-11-8,08:00,Leerdammer Cheese,SlicedCheese,284
+2022-11-9,08:00,Chicken Meat,Meat,172
+2022-11-10,08:00,Fried Shrimp,Dishes&Meals,277
+2022-11-11,08:00,Matzo Bread,"Pastries,Breads&Rolls",351
+2022-11-12,08:00,Lemon Juice,(Fruit)Juices,21
+2022-11-13,08:00,Gouda Cheese,SlicedCheese,356
+2022-11-14,08:00,Bream,Fish&Seafood,135
+2022-11-15,08:00,Gourd,Vegetables,14
+2022-11-16,08:00,Canned Mandarin Oranges,CannedFruit,71
+2022-11-17,08:00,Carrot Soup,Soups,25
+2022-11-18,08:00,Puff,"Oatmeal,Muesli&Cereals",367
+2022-11-19,08:00,Azuki Bean,Legumes,124
+2022-11-20,08:00,Lemon Cake,Cakes&Pies,352
+2022-11-21,08:00,Tuna Salad,Fish&Seafood,187
+2022-11-22,08:00,Sturgeon,Fish&Seafood,135
+2022-11-23,08:00,Blackberry Juice,(Fruit)Juices,48
+2022-11-24,08:00,Elderflower Cordial,Non-AlcoholicDrinks&Beverages,29
+2022-11-25,08:00,Tuna Salad,Fish&Seafood,187
+2022-11-26,08:00,Wild Boar,Venison&Game,160
+2022-11-27,08:00,Linguine,Pasta&Noodles,357
+2022-11-28,08:00,White Bread,"Pastries,Breads&Rolls",238
+2022-11-29,08:00,Buttermilk,Milk&DairyProducts,62
+2022-11-30,08:00,Skim Milk,Milk&DairyProducts,35
+2022-12-1,08:00,Spam,Sausage,315
+2022-12-2,08:00,Lager Beer,Beer,43
+2022-12-3,08:00,Speculoos,Candy&Sweets,469
+2022-12-4,08:00,Octopus,Fish&Seafood,164
+2022-12-5,08:00,Monterey,Cheese,373
+2022-12-6,08:00,Special K Chocolatey Delight,"Oatmeal,Muesli&Cereals",388
+2022-12-7,08:00,Bagel,"Pastries,Breads&Rolls",257
+2022-12-8,08:00,Egg,BakingIngredients,97
+2022-12-9,08:00,Maltesers,Candy&Sweets,498
+2022-12-10,08:00,Sweet Red Wine,Wine,81
+2022-12-11,08:00,Pine Nuts,Nuts&Seeds,673
+2022-12-12,08:00,Rolo,Candy&Sweets,474
+2022-12-13,08:00,Pork Melt,Offal&Giblets,219
+2022-12-14,08:00,Crunchy Nut Cornflakes,"Oatmeal,Muesli&Cereals",600
+2022-12-15,08:00,Hot Chocolate,Milk&DairyProducts,89
+2022-12-16,08:00,Succotash,Soups,115
+2022-12-17,08:00,Bean Sprouts,Legumes,30
+2022-12-18,08:00,Soursop Fruit,Tropical&ExoticFruits,66
+2022-12-19,08:00,Lychee,Tropical&ExoticFruits,66
+2022-12-20,08:00,Celery,Vegetables,16
+2022-12-21,08:00,Pumpkin Seed Oil,VegetableOils,880
+2022-12-22,08:00,Milk Duds,Candy&Sweets,422
+2022-12-23,08:00,Beef Tongue,Offal&Giblets,284
+2022-12-24,08:00,Wheat Beer,Beer,45
+2022-12-25,08:00,Old Milwaukee,Beer,41
+2022-12-26,08:00,Arugula,Vegetables,25
+2022-12-27,08:00,Oatmeal,"Oatmeal,Muesli&Cereals",375
+2022-12-28,08:00,Roast Dinner,Dishes&Meals,198
+2022-12-29,08:00,Whole Grain Noodles,Pasta&Noodles,347
+2022-12-30,08:00,Beef Fillet,Beef&Veal,189
+2022-12-31,08:00,Chardonnay,Wine,85
+2022-10-1,12:00,Green Onion,Vegetables,32
+2022-10-2,12:00,Cane Sugar,BakingIngredients,387
+2022-10-3,12:00,Sunflower Seeds,CerealProducts,584
+2022-10-4,12:00,Hi-C,Non-AlcoholicDrinks&Beverages,49
+2022-10-5,12:00,Cornmeal,CerealProducts,362
+2022-10-6,12:00,Corned Beef Hash,Dishes&Meals,164
+2022-10-7,12:00,Sweetener,BakingIngredients,360
+2022-10-8,12:00,Tomato,Vegetables,18
+2022-10-9,12:00,Pork Bacon,Pork,407
+2022-10-10,12:00,Turkey,FastFood,104
+2022-10-11,12:00,Mustard Oil,Oils&Fats,884
+2022-10-12,12:00,Cream of Chicken Soup,Soups,48
+2022-10-13,12:00,Havarti,Cheese,371
+2022-10-14,12:00,Absinthe,AlcoholicDrinks&Beverages,348
+2022-10-15,12:00,Bluefish,Fish&Seafood,159
+2022-10-16,12:00,Lotus Seed,Nuts&Seeds,89
+2022-10-17,12:00,Coconut Water,(Fruit)Juices,19
+2022-10-18,12:00,Sesame Seeds,Nuts&Seeds,573
+2022-10-19,12:00,Blueberry Cobbler,Cakes&Pies,234
+2022-10-20,12:00,Powdered Sugar,BakingIngredients,389
+2022-10-21,12:00,Whole Grain Wheat,CerealProducts,339
+2022-10-22,12:00,Prosciutto,ColdCuts&LunchMeat,195
+2022-10-23,12:00,Mangosteen,Tropical&ExoticFruits,73
+2022-10-24,12:00,Tabasco,Sauces&Dressings,70
+2022-10-25,12:00,Horseradish,Vegetables,48
+2022-10-26,12:00,Tres Leches Cake,Cakes&Pies,246
+2022-10-27,12:00,Beef Ribs,Beef&Veal,196
+2022-10-28,12:00,Butter Cheese,SlicedCheese,388
+2022-10-29,12:00,Coconut Cake,Cakes&Pies,356
+2022-10-30,12:00,Yoplait Key Lime Pie,Yogurt,100
+2022-10-31,12:00,Pilsner,Beer,43
+2022-11-1,12:00,Evaporated Milk,Milk&DairyProducts,135
+2022-11-2,12:00,Passion Fruit,Fruits,97
+2022-11-3,12:00,Potato Soup,Soups,80
+2022-11-4,12:00,Asian Pear,Tropical&ExoticFruits,42
+2022-11-5,12:00,Whole Milk,Milk&DairyProducts,61
+2022-11-6,12:00,Walnut Oil,Oils&Fats,889
+2022-11-7,12:00,Bitter Lemon,Soda&SoftDrinks,34
+2022-11-8,12:00,Muenster Cheese,Cheese,368
+2022-11-9,12:00,Green Lentil,Legumes,257
+2022-11-10,12:00,Lychee,Tropical&ExoticFruits,66
+2022-11-11,12:00,Sandwich,"Pastries,Breads&Rolls",304
+2022-11-12,12:00,Vegetable Broth,Soups,5
+2022-11-13,12:00,Cumin,Herbs&Spices,375
+2022-11-14,12:00,Frangelico,AlcoholicDrinks&Beverages,238
+2022-11-15,12:00,Shea Oil,VegetableOils,884
+2022-11-16,12:00,Marshmallow Fluff,Spreads,666
+2022-11-17,12:00,Canned Raspberries,CannedFruit,91
+2022-11-18,12:00,Lassi,Milk&DairyProducts,75
+2022-11-19,12:00,Activia,Yogurt,74
+2022-11-20,12:00,Anchovy,Fish&Seafood,131
+2022-11-21,12:00,Pig’s Tail,Pork,396
+2022-11-22,12:00,Baked Potato,PotatoProducts,93
+2022-11-23,12:00,Spinach Pizza,Pizza,234
+2022-11-24,12:00,Chestnut,Nuts&Seeds,213
+2022-11-25,12:00,Candy Cane,Candy&Sweets,423
+2022-11-26,12:00,Sloe Gin,AlcoholicDrinks&Beverages,332
+2022-11-27,12:00,Applewood,Cheese,410
+2022-11-28,12:00,Brittle,BakingIngredients,592
+2022-11-29,12:00,Tilsit,SlicedCheese,340
+2022-11-30,12:00,Raspberry Pie,Cakes&Pies,240
+2022-12-1,12:00,Goat Cheese,Cheese,364
+2022-12-2,12:00,Honey Smacks,"Oatmeal,Muesli&Cereals",370
+2022-12-3,12:00,Fairy Cakes,Candy&Sweets,440
+2022-12-4,12:00,French Dressing,Sauces&Dressings,60
+2022-12-5,12:00,Low Carb Pasta,Pasta&Noodles,282
+2022-12-6,12:00,Chicken Vegetable Soup,Soups,31
+2022-12-7,12:00,Spaghetti Bolognese,Dishes&Meals,132
+2022-12-8,12:00,Yellow Lentils,Legumes,304
+2022-12-9,12:00,Lasagne,Dishes&Meals,132
+2022-12-10,12:00,Cobb Salad,Dishes&Meals,118
+2022-12-11,12:00,Yoplait Boston Cream Pie,Yogurt,90
+2022-12-12,12:00,Semolina Pudding,Milk&DairyProducts,67
+2022-12-13,12:00,Wild Honey,Spreads,286
+2022-12-14,12:00,Burger King Whopper,FastFood,231
+2022-12-15,12:00,Chicken Fajita,FastFood,147
+2022-12-16,12:00,Chocolate Bar,Candy&Sweets,533
+2022-12-17,12:00,Kohlrabi,Vegetables,27
+2022-12-18,12:00,Cream Cheese with Herbs,CreamCheese,342
+2022-12-19,12:00,Multigrain Cheerios,"Oatmeal,Muesli&Cereals",380
+2022-12-20,12:00,Blue Cheese Dressing,Sauces&Dressings,533
+2022-12-21,12:00,Blue Cheese,Cheese,353
+2022-12-22,12:00,Chicken Breast,FastFood,163
+2022-12-23,12:00,Catalina Dressing,Sauces&Dressings,282
+2022-12-24,12:00,Chocolate,Candy&Sweets,529
+2022-12-25,12:00,Balsamic Vinegar,Herbs&Spices,88
+2022-12-26,12:00,Oat Bran,CerealProducts,246
+2022-12-27,12:00,Strawberry Cheesecake,Cakes&Pies,327
+2022-12-28,12:00,Swiss Roll,Cakes&Pies,439
+2022-12-29,12:00,Fructose,BakingIngredients,368
+2022-12-30,12:00,Cherry Jam,Spreads,250
+2022-12-31,12:00,Pheasant,Poultry&Fowl,239
+2022-10-1,18:00,Punch,AlcoholicDrinks&Beverages,62
+2022-10-2,18:00,Peach Juice,(Fruit)Juices,54
+2022-10-3,18:00,Parsnips,Vegetables,75
+2022-10-4,18:00,Savoury Biscuits,CerealProducts,347
+2022-10-5,18:00,Bud Select 55,Beer,15
+2022-10-6,18:00,Amaranth,CerealProducts,371
+2022-10-7,18:00,Black Pudding,Sausage,379
+2022-10-8,18:00,Pork Tongue,Offal&Giblets,271
+2022-10-9,18:00,Corn Pops,"Oatmeal,Muesli&Cereals",377
+2022-10-10,18:00,Animal Crackers,Candy&Sweets,446
+2022-10-11,18:00,Racoon Meat,Venison&Game,255
+2022-10-12,18:00,Wheat Bran,CerealProducts,216
+2022-10-13,18:00,Lobster,Fish&Seafood,89
+2022-10-14,18:00,Tuna,FastFood,86
+2022-10-15,18:00,Rhea,Poultry&Fowl,160
+2022-10-16,18:00,Pig Brain,Offal&Giblets,138
+2022-10-17,18:00,Capers,Herbs&Spices,23
+2022-10-18,18:00,Wendy’s Jr. Bacon Cheeseburger,FastFood,261
+2022-10-19,18:00,Cheese Whiz,Cheese,276
+2022-10-20,18:00,Wheaties,"Oatmeal,Muesli&Cereals",367
+2022-10-21,18:00,Applesauce,CannedFruit,62
+2022-10-22,18:00,Apricot Nectar,(Fruit)Juices,56
+2022-10-23,18:00,Smoothie,Non-AlcoholicDrinks&Beverages,37
+2022-10-24,18:00,Mustard Sauce,Sauces&Dressings,645
+2022-10-25,18:00,Pale Ale,Beer,42
+2022-10-26,18:00,Parsnip,Herbs&Spices,75
+2022-10-27,18:00,Plaice,Fish&Seafood,91
+2022-10-28,18:00,Peppermint Extract,BakingIngredients,0
+2022-10-29,18:00,BBQ Ribs,Dishes&Meals,255
+2022-10-30,18:00,Bouillon,Soups,16
+2022-10-31,18:00,Vegetable Cream Cheese,CreamCheese,342
+2022-11-1,18:00,Farfalle,Pasta&Noodles,358
+2022-11-2,18:00,Baked Ham,ColdCuts&LunchMeat,343
+2022-11-3,18:00,Brown Rice,CerealProducts,388
+2022-11-4,18:00,Corn Oil,Oils&Fats,800
+2022-11-5,18:00,Reeses Peanut Butter Cups,Candy&Sweets,536
+2022-11-6,18:00,Rib Eye Steak,Beef&Veal,217
+2022-11-7,18:00,Harissa,Sauces&Dressings,52
+2022-11-8,18:00,Poppy Seed Oil,VegetableOils,884
+2022-11-9,18:00,Turnip Greens,Vegetables,20
+2022-11-10,18:00,Polenta,CerealProducts,366
+2022-11-11,18:00,Olive Cream Cheese,CreamCheese,342
+2022-11-12,18:00,Durum Wheat Semolina,CerealProducts,397
+2022-11-13,18:00,Whoopie Pie,Candy&Sweets,400
+2022-11-14,18:00,Pizza Rolls,Pizza,247
+2022-11-15,18:00,Cranberry Apple Juice,(Fruit)Juices,67
+2022-11-16,18:00,Caviar,Fish&Seafood,264
+2022-11-17,18:00,Cookies,Candy&Sweets,488
+2022-11-18,18:00,Ham and Cheese Sandwich,Dishes&Meals,241
+2022-11-19,18:00,Parma Ham,ColdCuts&LunchMeat,345
+2022-11-20,18:00,All Purpose Flour,BakingIngredients,364
+2022-11-21,18:00,Ice Cream Sandwich,IceCream,237
+2022-11-22,18:00,Banana,Fruits,89
+2022-11-23,18:00,Beef Kidney,Offal&Giblets,158
+2022-11-24,18:00,Gumdrops,Candy&Sweets,321
+2022-11-25,18:00,Spanakopita,"Pastries,Breads&Rolls",246
+2022-11-26,18:00,Hazelnut,Nuts&Seeds,628
+2022-11-27,18:00,Capsicum,Vegetables,27
+2022-11-28,18:00,Soursop Fruit,Tropical&ExoticFruits,66
+2022-11-29,18:00,Corn Flour,BakingIngredients,361
+2022-11-30,18:00,Pizza Dough,Pizza,228
+2022-12-1,18:00,Merlot,Wine,83
+2022-12-2,18:00,Orecchiette,Pasta&Noodles,370
+2022-12-3,18:00,Altbier,Beer,43
+2022-12-4,18:00,Grilled Pizza,Pizza,226
+2022-12-5,18:00,Falafel,FastFood,335
+2022-12-6,18:00,Quattro Formaggi Pizza,Pizza,248
+2022-12-7,18:00,Lettuce,Vegetables,15
+2022-12-8,18:00,Spicy Italian,FastFood,219
+2022-12-9,18:00,Coors N.A.,Beer,18
+2022-12-10,18:00,Kipper,Fish&Seafood,217
+2022-12-11,18:00,Bitter Lemon,Soda&SoftDrinks,34
+2022-12-12,18:00,Chess Pie,Cakes&Pies,411
+2022-12-13,18:00,Apple Crumble,Cakes&Pies,156
+2022-12-14,18:00,Swordfish,Fish&Seafood,172
+2022-12-15,18:00,Pork Sausage,Pork,339
+2022-12-16,18:00,Sesame Paste,Sauces&Dressings,595
+2022-12-17,18:00,Healthy Choice,IceCream,125
+2022-12-18,18:00,Chai Tea,Non-AlcoholicDrinks&Beverages,0
+2022-12-19,18:00,Hot Chocolate,Milk&DairyProducts,89
+2022-12-20,18:00,Turkey Steak,Meat,189
+2022-12-21,18:00,Samuel Adams,Beer,45
+2022-12-22,18:00,Poppy-Seed Cake,Cakes&Pies,394
+2022-12-23,18:00,Almonds,Nuts&Seeds,575
+2022-12-24,18:00,Punch,AlcoholicDrinks&Beverages,62
+2022-12-25,18:00,Nutella,Spreads,544
+2022-12-26,18:00,Dry Red Wine,Wine,85
+2022-12-27,18:00,McDonald’s Cheeseburger,FastFood,263
+2022-12-28,18:00,Cotton Seeds,Nuts&Seeds,506
+2022-12-29,18:00,Carrot Soup,Soups,25
+2022-12-30,18:00,Grilled Cheese,Cheese,350
+2022-12-31,18:00,Tap Water,Non-AlcoholicDrinks&Beverages,0
